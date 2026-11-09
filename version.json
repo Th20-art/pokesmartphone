@@ -1,9 +1,6 @@
 {
-    "version":  "1.89.1",
-    "file":  "pokeisland-smartphone-1.89.1-mc1.21.1.jar",
-    "sha256":  "373bf111b0c46c7366919dc477e7cc0de6e617ed85a82a3c1e771835fce7b6c0",
-    "notes":  [
-                  "Version de test de la mise à jour (identique à la 1.89.0).",
-                  "Mise à jour plus simple : un bouton « Fermer le jeu », la nouvelle version s\u0027installe toute seule, et tu relances le jeu comme d\u0027habitude."
-              ]
+    "version":  "1.89.2",
+    "file":  "pokeisland-smartphone-1.89.2-mc1.21.1.jar",
+    "sha256":  "100c479e0598ae0154e09d805a99c2058ad967c6081ebae25b900bcc17bf41af",
+    "notes":  "Mise à jour plus simple : un bouton « Mettre à jour » ferme le jeu et installe la nouvelle version, sans aucune fenêtre ; tu relances ensuite le jeu comme d\u0027habitude."
 }
