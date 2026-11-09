@@ -1,9 +1,9 @@
 {
-    "version":  "1.89.4",
-    "file":  "pokeisland-smartphone-1.89.4-mc1.21.1.jar",
-    "sha256":  "8c8506db767f94fa82df0f8a014455b9cae9add03d65b5d57ac367ffc851f563",
+    "version":  "1.89.5",
+    "file":  "pokeisland-smartphone-1.89.5-mc1.21.1.jar",
+    "sha256":  "b3bfa22988ce393918a59a24978d0c171c36128a47a3962428799a28254d9e80",
     "notes":  [
-                  "La proposition de l\u0027extension « PokéSmartphone Partage » s\u0027affiche maintenant par-dessus la GTS, et non plus cachée derrière.",
-                  "Mise à jour : clique sur « Mettre à jour », le jeu se ferme et la nouvelle version s\u0027installe toute seule."
+                  "Si la mise à jour ne peut pas se faire toute seule, un message dans le tchat donne le lien pour télécharger la bonne version.",
+                  "Sur le launcher officiel PokeIsland (qui supprime les mods qu\u0027il ne fournit pas), le lien est donné directement."
               ]
 }
