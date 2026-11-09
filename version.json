@@ -1,9 +1,9 @@
 {
-    "version":  "1.89.5",
-    "file":  "pokeisland-smartphone-1.89.5-mc1.21.1.jar",
-    "sha256":  "b3bfa22988ce393918a59a24978d0c171c36128a47a3962428799a28254d9e80",
+    "version":  "1.89.6",
+    "file":  "pokeisland-smartphone-1.89.6-mc1.21.1.jar",
+    "sha256":  "9eef507c53fa9e9f2d7e4a60b34c34c0e5c8b951a6916e30b9805fd8907f184d",
     "notes":  [
-                  "Si la mise à jour ne peut pas se faire toute seule, un message dans le tchat donne le lien pour télécharger la bonne version.",
-                  "Sur le launcher officiel PokeIsland (qui supprime les mods qu\u0027il ne fournit pas), le lien est donné directement."
+                  "Version de test de la mise à jour : clique sur « Mettre à jour », le jeu se ferme et la nouvelle version s\u0027installe toute seule.",
+                  "Relance ensuite le jeu comme d\u0027habitude."
               ]
 }
