@@ -1,5 +1,10 @@
 {
-    "version":  "1.84.2",
-    "file":  "pokeisland-smartphone-1.84.2-mc1.21.1.jar",
-    "sha256":  "8615e52c9c22cfd1e7ebf0a7a48892bdc2142abf1be8d06fcf7062e38365ff2d"
+    "version":  "1.84.4",
+    "file":  "pokeisland-smartphone-1.84.4-mc1.21.1.jar",
+    "sha256":  "b35d9ad0e0a7f9a8632e2c29da90a6bf52b554bf43729c9af41890124c873d42",
+    "notes":  [
+                  "La mise à jour se fait depuis le menu du jeu : nouveautés, téléchargement, puis bouton Redémarrer.",
+                  "Le jeu se relance tout seul sur la nouvelle version.",
+                  "Le mod se met à jour automatiquement depuis GitHub."
+              ]
 }
