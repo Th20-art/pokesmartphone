@@ -1,9 +1,10 @@
 {
-    "version":  "1.84.7",
-    "file":  "pokeisland-smartphone-1.84.7-mc1.21.1.jar",
-    "sha256":  "0e8f10df1102a69da04bcecb2849c2ff7da37c22d606533b69a4139e037ecab2",
+    "version":  "1.85.0",
+    "file":  "pokeisland-smartphone-1.85.0-mc1.21.1.jar",
+    "sha256":  "27f13c72bfe0a72c737733647d89b4a0dbdb83c3ca7dd8ec27fa90139a53dc44",
     "notes":  [
-                  "Avec Modrinth : après la mise à jour, l\u0027application Modrinth s\u0027ouvre toute seule, clique sur Jouer.",
-                  "Avec les autres launchers : le jeu se relance tout seul."
+                  "GTS : bouton « Vendre un objet » dans Mon profil. Tape le nom, choisis la quantité et le prix, le Sac sort l\u0027objet et le met en vente tout seul.",
+                  "Prix guidé par la moyenne des 14 derniers jours, avec la tendance et un prix conseillé.",
+                  "Recommandations : tes objets qui se vendent bien en ce moment."
               ]
 }
