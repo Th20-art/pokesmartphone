@@ -1,7 +1,7 @@
 {
-    "version":  "1.87.1",
-    "file":  "pokeisland-smartphone-1.87.1-mc1.21.1.jar",
-    "sha256":  "e3602a64ae544c85071864fb19d42753816732a7d9d8aa1f281c72d2a53458ab",
+    "version":  "1.88.0",
+    "file":  "pokeisland-smartphone-1.88.0-mc1.21.1.jar",
+    "sha256":  "c67b3e213e8df25ed7d943fad899ee2c5374d108e2dbfa7211506b01071dde67",
     "notes":  [
                   "Enchères : heure de fin estimée pour l\u0027enchère en cours et heure de début estimée pour les suivantes.",
                   "Ce sont des estimations (le serveur indique seulement « 1 à 2 heures ») : elles s\u0027affinent à chaque fois que tu ouvres les enchères.",
