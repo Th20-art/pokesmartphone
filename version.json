@@ -1,10 +1,11 @@
 {
-    "version":  "1.86.0",
-    "file":  "pokeisland-smartphone-1.86.0-mc1.21.1.jar",
-    "sha256":  "e9b3550da9ffd30ab3c0b4518829a9ee1e89cd9d610702fdd1610d8fc2fba8d1",
+    "version":  "1.87.0",
+    "file":  "pokeisland-smartphone-1.87.0-mc1.21.1.jar",
+    "sha256":  "8f02ea3b2c9dd01b45601ee8d92262aa4f3286a441ad6bda8b642b83ea2541ef",
     "notes":  [
-                  "GTS, onglet Enchères : l\u0027enchère en cours et les 5 suivantes, comparées au prix du marché des 14 derniers jours.",
-                  "Enchérir depuis le téléphone (+100 à +10 000), en deux clics pour éviter les erreurs ; rien n\u0027est payé si l\u0027offre a bougé.",
-                  "GTS, Vendre : nouveau bouton Pokémon pour mettre en vente un Pokémon de ton équipe, prix guidé par le marché."
+                  "Sac : bouton « Vendre sur la GTS » sous la quantité, avec une fenêtre pour vérifier le prix avant la mise en vente.",
+                  "PC : bouton « Vendre sur la GTS » pour le Pokémon sélectionné.",
+                  "Vente de Pokémon : tous tes Pokémon (équipe et PC) avec une recherche ; un Pokémon du PC passe tout seul dans ton équipe juste avant la vente.",
+                  "GTS, onglet Enchères : l\u0027enchère en cours et les suivantes, comparées au marché des 14 jours, et enchérir en deux clics."
               ]
 }
