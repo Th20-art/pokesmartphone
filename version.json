@@ -1,9 +1,9 @@
 {
-    "version":  "1.88.1",
-    "file":  "pokeisland-smartphone-1.88.1-mc1.21.1.jar",
-    "sha256":  "6607d09b40489f0afd750c07108bc89c9f8bc117016a7e999fec8ba0586d559c",
+    "version":  "1.88.2",
+    "file":  "pokeisland-smartphone-1.88.2-mc1.21.1.jar",
+    "sha256":  "449a3dc45b42d5a66838be6c083320ea076b97536ef90b6a4a6320bd4e37bd40",
     "notes":  [
-                  "Version de test de la mise à jour automatique (identique à la 1.88.0).",
-                  "Nouvelle extension facultative « PokéSmartphone Partage » : prix de la GTS et fins d\u0027enchères mis en commun, de façon anonyme, entre les joueurs qui l\u0027installent."
+                  "Extension « PokéSmartphone Partage » : la fenêtre qui la propose précise qu\u0027il faudra redémarrer le jeu pour l\u0027activer.",
+                  "Nouvelle extension facultative : prix de la GTS et fins d\u0027enchères mis en commun, de façon anonyme, entre les joueurs qui l\u0027installent."
               ]
 }
