@@ -3,8 +3,7 @@
     "file":  "pokeisland-smartphone-1.88.0-mc1.21.1.jar",
     "sha256":  "c67b3e213e8df25ed7d943fad899ee2c5374d108e2dbfa7211506b01071dde67",
     "notes":  [
-                  "Enchères : heure de fin estimée pour l\u0027enchère en cours et heure de début estimée pour les suivantes.",
-                  "Ce sont des estimations (le serveur indique seulement « 1 à 2 heures ») : elles s\u0027affinent à chaque fois que tu ouvres les enchères.",
-                  "Sac et PC : bouton « Vendre sur la GTS » ; vente de tous tes Pokémon, équipe et PC."
+                  "Nouvelle extension facultative « PokéSmartphone Partage » : prix de la GTS et fins d\u0027enchères mis en commun, de façon anonyme, entre les joueurs qui l\u0027installent.",
+                  "Elle est proposée une seule fois, à l\u0027ouverture de la GTS ; tu peux refuser, rien n\u0027est partagé sans elle."
               ]
 }
