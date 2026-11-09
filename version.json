@@ -1,11 +1,10 @@
 {
-    "version":  "1.85.1",
-    "file":  "pokeisland-smartphone-1.85.1-mc1.21.1.jar",
-    "sha256":  "9fca081c631c6536c3fde229ef86eeb083479b97b2e9b8f670474463a7d0d0d7",
+    "version":  "1.86.0",
+    "file":  "pokeisland-smartphone-1.86.0-mc1.21.1.jar",
+    "sha256":  "e9b3550da9ffd30ab3c0b4518829a9ee1e89cd9d610702fdd1610d8fc2fba8d1",
     "notes":  [
-                  "GTS : nouvel onglet « Enchères » à côté de Vendeurs (en préparation : ouvre /enchere une fois pour que le téléphone apprenne à le lire).",
-                  "GTS : bouton « Vendre un objet » dans Mon profil. Tape le nom, choisis la quantité et le prix, le Sac sort l\u0027objet et le met en vente tout seul.",
-                  "Prix guidé par la moyenne des 14 derniers jours, avec la tendance et un prix conseillé.",
-                  "Recommandations : tes objets qui se vendent bien en ce moment."
+                  "GTS, onglet Enchères : l\u0027enchère en cours et les 5 suivantes, comparées au prix du marché des 14 derniers jours.",
+                  "Enchérir depuis le téléphone (+100 à +10 000), en deux clics pour éviter les erreurs ; rien n\u0027est payé si l\u0027offre a bougé.",
+                  "GTS, Vendre : nouveau bouton Pokémon pour mettre en vente un Pokémon de ton équipe, prix guidé par le marché."
               ]
 }
