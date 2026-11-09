@@ -1,8 +1,9 @@
 {
-    "version":  "1.85.0",
-    "file":  "pokeisland-smartphone-1.85.0-mc1.21.1.jar",
-    "sha256":  "27f13c72bfe0a72c737733647d89b4a0dbdb83c3ca7dd8ec27fa90139a53dc44",
+    "version":  "1.85.1",
+    "file":  "pokeisland-smartphone-1.85.1-mc1.21.1.jar",
+    "sha256":  "9fca081c631c6536c3fde229ef86eeb083479b97b2e9b8f670474463a7d0d0d7",
     "notes":  [
+                  "GTS : nouvel onglet « Enchères » à côté de Vendeurs (en préparation : ouvre /enchere une fois pour que le téléphone apprenne à le lire).",
                   "GTS : bouton « Vendre un objet » dans Mon profil. Tape le nom, choisis la quantité et le prix, le Sac sort l\u0027objet et le met en vente tout seul.",
                   "Prix guidé par la moyenne des 14 derniers jours, avec la tendance et un prix conseillé.",
                   "Recommandations : tes objets qui se vendent bien en ce moment."
