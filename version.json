@@ -1,9 +1,9 @@
 {
-    "version":  "1.89.3",
-    "file":  "pokeisland-smartphone-1.89.3-mc1.21.1.jar",
-    "sha256":  "2553f692200fa70acfbac8748b35d4334effa3f4c7c786ea49648b712dc0288b",
+    "version":  "1.89.4",
+    "file":  "pokeisland-smartphone-1.89.4-mc1.21.1.jar",
+    "sha256":  "8c8506db767f94fa82df0f8a014455b9cae9add03d65b5d57ac367ffc851f563",
     "notes":  [
-                  "Version de test de la mise à jour : clique sur « Mettre à jour », le jeu se ferme et la nouvelle version s\u0027installe toute seule.",
-                  "Relance ensuite le jeu comme d\u0027habitude."
+                  "La proposition de l\u0027extension « PokéSmartphone Partage » s\u0027affiche maintenant par-dessus la GTS, et non plus cachée derrière.",
+                  "Mise à jour : clique sur « Mettre à jour », le jeu se ferme et la nouvelle version s\u0027installe toute seule."
               ]
 }
