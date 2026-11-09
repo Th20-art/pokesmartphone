@@ -1,9 +1,9 @@
 {
-    "version":  "1.84.6",
-    "file":  "pokeisland-smartphone-1.84.6-mc1.21.1.jar",
-    "sha256":  "6b2fbee9e6f5e9f60ead172017b885768a6b768b093088406252c405693ee692",
+    "version":  "1.84.7",
+    "file":  "pokeisland-smartphone-1.84.7-mc1.21.1.jar",
+    "sha256":  "0e8f10df1102a69da04bcecb2849c2ff7da37c22d606533b69a4139e037ecab2",
     "notes":  [
-                  "Le bouton Redémarrer relance le jeu, ou à défaut ouvre ton launcher.",
-                  "En cas de souci, le détail de la mise à jour est écrit dans logs/pokesmartphone-maj.log."
+                  "Avec Modrinth : après la mise à jour, l\u0027application Modrinth s\u0027ouvre toute seule, clique sur Jouer.",
+                  "Avec les autres launchers : le jeu se relance tout seul."
               ]
 }
