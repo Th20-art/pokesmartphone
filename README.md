@@ -1,10 +1,27 @@
 # PokéSmartphone
 
-Mod client du serveur PokeIsland, par LePandaChanceux.
+Dernière version : **1.96.2**. Le fichier **pokeisland-smartphone-1.96.2-mc1.21.1.jar** est dans la liste ci-dessus.
 
-## Installer ou mettre à jour
+# Mises à jour
 
-1. Clique sur **pokeisland-smartphone-1.96.2-mc1.21.1.jar** dans la liste ci-dessus, puis sur le bouton de téléchargement (Download raw file).
-2. Ferme le jeu.
-3. Dans ton dossier `mods` (avec un autre launcher que le launcher officiel PokeIsland, qui supprime les mods qu'il ne fournit pas), supprime l'ancien fichier `pokeisland-smartphone-...` et mets le nouveau à sa place.
-4. Relance le jeu.
+## 1.96.2 (10/11/2026)
+
+**Nouvelle page « Mon profil » dans la GTS** (ta tête en haut à droite)
+- Ton solde et tes annonces en vente, avec leur total
+- Bouton « Gérer mes annonces » (/gts manage)
+- Ta liste de souhaits (les objets marqués ★) avec leur meilleur prix du moment
+- Tes achats validés par le serveur
+
+**Vendre sur la GTS depuis le téléphone**
+- Depuis le profil : « Vendre un objet », ou un Pokémon (équipe et PC)
+- Depuis le Sac : « Vendre sur la GTS » sous la quantité, l'objet est déjà choisi
+- Depuis le PC : « Vendre sur la GTS » pour le Pokémon sélectionné
+- Prix conseillé d'après les prix vus sur la GTS ces 14 derniers jours
+
+**Notifications de mise à jour**
+- Une cloche sur le téléphone regroupe toutes tes notifications
+- Nouvelle version : un message dans le tchat et une notification qui mène à cette page
+
+**Graphique de l'historique de la GTS**
+- Un point carré sur chaque jour qui a vraiment un prix, le détail du jour au survol
+- Pokémon pas en vente dans la recherche : icône de Poké Ball
