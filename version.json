@@ -1,9 +1,6 @@
 {
-    "version":  "1.96.2",
-    "file":  "pokeisland-smartphone-1.96.2-mc1.21.1.jar",
-    "sha256":  "0f9e056e8e363cfe41fc8a74514bbc9f316c1abc6be3ca3d6a721de18781d591",
-    "notes":  [
-                  "Graphique de l\u0027historique de la GTS : un point carré sur chaque jour qui a vraiment un prix, le détail du jour au survol.",
-                  "Pokémon pas en vente dans la recherche : icône de Poké Ball au lieu d\u0027une case vide."
-              ]
+    "version":  "1.96.3",
+    "file":  "pokeisland-smartphone-1.96.3-mc1.21.1.jar",
+    "sha256":  "16e8118645d1cb76f43980bb0dc690c58425235c4767a0397e032961a19b34e5",
+    "notes":  "Coques Arceus : à venir avec le prochain mod ATH Arceus."
 }
