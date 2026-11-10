@@ -1,6 +1,10 @@
 {
-    "version":  "1.95.0",
-    "file":  "pokeisland-smartphone-1.95.0-mc1.21.1.jar",
-    "sha256":  "2003a64c02b817d7ef1a5a49089d512e954258889f4636dd196a2e6d12f3f653",
-    "notes":  "Partage des prix : les prix vus avant d\u0027accepter le partage (ou avant d\u0027installer l\u0027extension) dans la journée sont maintenant envoyés aussi."
+    "version":  "1.96.0",
+    "file":  "pokeisland-smartphone-1.96.0-mc1.21.1.jar",
+    "sha256":  "989fbe130a417e7c760f24b4c423bd0e0380ce9fe80f749fa475c0087ea8c767",
+    "notes":  [
+                  "GTS : l\u0027info-bulle d\u0027un prix et l\u0027historique disent d\u0027où viennent les moyennes (prix partagés par les joueurs, ou vus par ton téléphone).",
+                  "Graphique de l\u0027historique : un point carré sur chaque jour qui a vraiment un prix (doré quand il vient des prix partagés), avec le nombre de joueurs au survol.",
+                  "Les prix partagés reçus mettent à jour les moyennes tout de suite."
+              ]
 }
