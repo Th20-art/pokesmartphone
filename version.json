@@ -1,10 +1,9 @@
 {
-    "version":  "1.92.0",
-    "file":  "pokeisland-smartphone-1.92.0-mc1.21.1.jar",
-    "sha256":  "09a289c3ee11462fb0e81f3a34f1ff0a8af8fd2276514e11dc175fb438fbc276",
+    "version":  "1.92.1",
+    "file":  "pokeisland-smartphone-1.92.1-mc1.21.1.jar",
+    "sha256":  "8dba8623d5727f2159dec2055135de4dcf99a4db0ea36810af1ea3489bcdccdb",
     "notes":  [
-                  "Les mises à jour ne s\u0027installent plus par le mod : une notification (la cloche) et un message dans le tchat t\u0027envoient sur la page GitHub, où tu télécharges la nouvelle version.",
-                  "L\u0027extension PokéSmartphone Partage est aussi signalée quand une nouvelle version sort.",
-                  "L\u0027accord pour le partage des prix est demandé dans la GTS, par-dessus l\u0027affichage."
+                  "Version de test des notifications de mise à jour (identique à la 1.92.0).",
+                  "La cloche et le tchat t\u0027envoient sur la page GitHub pour télécharger la nouvelle version."
               ]
 }
