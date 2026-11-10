@@ -1,9 +1,9 @@
 {
-    "version":  "1.89.7",
-    "file":  "pokeisland-smartphone-1.89.7-mc1.21.1.jar",
-    "sha256":  "92918d593dd531e28ca92b0a523b553ddc19f501dab442f0839eb399f07ca338",
+    "version":  "1.90.0",
+    "file":  "pokeisland-smartphone-1.90.0-mc1.21.1.jar",
+    "sha256":  "4d863bcb88f27ad7ccf29bb963a6c5f9314d630cc8c17d5e6ae970ed4933fa1a",
     "notes":  [
-                  "GTS, onglet Enchères : il se remplit tout seul quand tu l\u0027ouvres (enchère en cours, suivantes, comparaison au marché, enchérir).",
-                  "Le menu /enchere s\u0027ouvre un instant pour être lu, puis tu reviens directement sur l\u0027onglet."
+                  "Plus de fenêtre de mise à jour au démarrage : la nouvelle version se télécharge en silence.",
+                  "Un message dans le tchat et une notification du téléphone te préviennent ; elle s\u0027installe toute seule quand tu fermes le jeu."
               ]
 }
