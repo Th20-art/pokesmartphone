@@ -1,10 +1,6 @@
 {
-    "version":  "1.94.1",
-    "file":  "pokeisland-smartphone-1.94.1-mc1.21.1.jar",
-    "sha256":  "73bafe7ba94bc036f75154db8637ef405fb72f45d7bb26a2493b9682f0734c04",
-    "notes":  [
-                  "Version de test des notifications de mise à jour (identique à la 1.94.0).",
-                  "Bas de la GTS : indique si le partage des prix est actif, ou un lien vers l\u0027extension.",
-                  "Extension Partage : un message te dit quand tes prix sont envoyés et quand ceux des autres joueurs sont reçus."
-              ]
+    "version":  "1.95.0",
+    "file":  "pokeisland-smartphone-1.95.0-mc1.21.1.jar",
+    "sha256":  "2003a64c02b817d7ef1a5a49089d512e954258889f4636dd196a2e6d12f3f653",
+    "notes":  "Partage des prix : les prix vus avant d\u0027accepter le partage (ou avant d\u0027installer l\u0027extension) dans la journée sont maintenant envoyés aussi."
 }
