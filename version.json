@@ -1,11 +1,9 @@
 {
-    "version":  "1.96.1",
-    "file":  "pokeisland-smartphone-1.96.1-mc1.21.1.jar",
-    "sha256":  "6dc6b1a7b59f2ee1218fa61a18a0b758c7e8c9193b47ec7d46ffef1075319451",
+    "version":  "1.96.2",
+    "file":  "pokeisland-smartphone-1.96.2-mc1.21.1.jar",
+    "sha256":  "0f9e056e8e363cfe41fc8a74514bbc9f316c1abc6be3ca3d6a721de18781d591",
     "notes":  [
-                  "GTS : l\u0027info-bulle d\u0027un prix et l\u0027historique disent d\u0027où viennent les moyennes (prix partagés par les joueurs, ou vus par ton téléphone).",
-                  "Graphique de l\u0027historique : un point carré sur chaque jour qui a vraiment un prix (doré quand il vient des prix partagés), avec le nombre de joueurs au survol.",
-                  "Recherche : les objets vus par les autres joueurs (3 jours de prix partagés ou plus) apparaissent aussi en grisé quand ils ne sont pas en vente.",
-                  "Les prix partagés reçus mettent à jour les moyennes tout de suite ; Pokémon pas en vente : icône de Poké Ball."
+                  "Graphique de l\u0027historique de la GTS : un point carré sur chaque jour qui a vraiment un prix, le détail du jour au survol.",
+                  "Pokémon pas en vente dans la recherche : icône de Poké Ball au lieu d\u0027une case vide."
               ]
 }
