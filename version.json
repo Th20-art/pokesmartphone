@@ -1,9 +1,9 @@
 {
-    "version":  "1.90.0",
-    "file":  "pokeisland-smartphone-1.90.0-mc1.21.1.jar",
-    "sha256":  "4d863bcb88f27ad7ccf29bb963a6c5f9314d630cc8c17d5e6ae970ed4933fa1a",
+    "version":  "1.91.0",
+    "file":  "pokeisland-smartphone-1.91.0-mc1.21.1.jar",
+    "sha256":  "9b58cd952acb36814c109026279872c0b8b1ce74589e1feb2bbda540a8530c5f",
     "notes":  [
-                  "Plus de fenêtre de mise à jour au démarrage : la nouvelle version se télécharge en silence.",
-                  "Un message dans le tchat et une notification du téléphone te préviennent ; elle s\u0027installe toute seule quand tu fermes le jeu."
+                  "Nouvelle cloche sur le widget du téléphone : toutes tes notifications (messages, mise à jour…) au même endroit.",
+                  "Les mises à jour ne s\u0027installent plus toutes seules : clique sur « Installer » dans la notification, elle s\u0027installera à la fermeture du jeu."
               ]
 }
