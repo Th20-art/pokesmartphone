@@ -1,9 +1,9 @@
 {
-    "version":  "1.91.0",
-    "file":  "pokeisland-smartphone-1.91.0-mc1.21.1.jar",
-    "sha256":  "9b58cd952acb36814c109026279872c0b8b1ce74589e1feb2bbda540a8530c5f",
+    "version":  "1.91.1",
+    "file":  "pokeisland-smartphone-1.91.1-mc1.21.1.jar",
+    "sha256":  "adcb10d2e01d4f24cb4453822707fb1b0ccfe540c08360d7f373ecb03086c721",
     "notes":  [
-                  "Nouvelle cloche sur le widget du téléphone : toutes tes notifications (messages, mise à jour…) au même endroit.",
-                  "Les mises à jour ne s\u0027installent plus toutes seules : clique sur « Installer » dans la notification, elle s\u0027installera à la fermeture du jeu."
+                  "Version de test de la notification de mise à jour (identique à la 1.91.0).",
+                  "Ouvre la cloche du téléphone et clique sur « Installer » : elle s\u0027installera à la fermeture du jeu."
               ]
 }
