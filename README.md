@@ -1,10 +1,10 @@
 # PokéSmartphone
 
-Dernière version : **1.97.0**
+Dernière version : **1.98.0**
 
 ## Installer ou mettre à jour
 
-1. Dans la liste des fichiers ci-dessus, clique sur **pokeisland-smartphone-1.97.0-mc1.21.1.jar**, puis sur le bouton de téléchargement (Download raw file). Seul le fichier `.jar` est utile.
+1. Dans la liste des fichiers ci-dessus, clique sur **pokeisland-smartphone-1.98.0-mc1.21.1.jar**, puis sur le bouton de téléchargement (Download raw file). Seul le fichier `.jar` est utile.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -18,6 +18,10 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 - Les touches se changent dans Options, Commandes, catégorie PokéSmartphone.
 
 # Mises à jour
+
+## 1.98.0 (11/11/2026)
+
+- GTS : un badge ✓ sur les objets et les Pokémon que tu possèdes déjà (sac, inventaire, équipe et PC), avec le nombre au survol.
 
 ## 1.97.0 (11/11/2026)
 

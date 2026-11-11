@@ -1,6 +1,6 @@
 {
-    "version":  "1.97.0",
-    "file":  "pokeisland-smartphone-1.97.0-mc1.21.1.jar",
-    "sha256":  "6caecc5bca6c9c3d5fb46a28b337ba297fc32ba9636daed7aa7feb4e3020765c",
-    "notes":  "GTS : les nouveaux joueurs démarrent avec les prix des 14 derniers jours (moyennes, tendances et graphiques dès la première ouverture)."
+    "version":  "1.98.0",
+    "file":  "pokeisland-smartphone-1.98.0-mc1.21.1.jar",
+    "sha256":  "a46f079ce70dc11491cd9e538d71751b3258d2abf2ab0c188dda3d006a8abcd4",
+    "notes":  "GTS : un badge ✓ sur les objets et les Pokémon que tu possèdes déjà (sac, inventaire, équipe et PC), avec le nombre au survol."
 }
