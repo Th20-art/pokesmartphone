@@ -1,6 +1,6 @@
 {
-    "version":  "1.96.3",
-    "file":  "pokeisland-smartphone-1.96.3-mc1.21.1.jar",
-    "sha256":  "16e8118645d1cb76f43980bb0dc690c58425235c4767a0397e032961a19b34e5",
-    "notes":  "Coques Arceus : à venir avec le prochain mod ATH Arceus."
+    "version":  "1.97.0",
+    "file":  "pokeisland-smartphone-1.97.0-mc1.21.1.jar",
+    "sha256":  "6caecc5bca6c9c3d5fb46a28b337ba297fc32ba9636daed7aa7feb4e3020765c",
+    "notes":  "GTS : les nouveaux joueurs démarrent avec les prix des 14 derniers jours (moyennes, tendances et graphiques dès la première ouverture)."
 }
