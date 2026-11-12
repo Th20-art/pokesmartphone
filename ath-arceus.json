@@ -1,13 +1,11 @@
 {
-    "version":  "0.56.1",
-    "file":  "ath-arceus-0.56.1.jar",
-    "sha256":  "74d0f23f1ae0107c11c95a39090e916587fb2e18b59f2edbe96f065fd9220378",
+    "version":  "0.56.3",
+    "file":  "ath-arceus-0.56.3.jar",
+    "sha256":  "e672c11aa6917780c5bbd830c09068e3b6f71d09db491277eb187d467ba38167",
     "notes":  [
+                  "IV : la vraie valeur est affichée, hyper entraînement compris (cristaux d\u0027IV parfaits)",
+                  "Zarbidex : une forme compte quand tu possèdes ce Zarbi (équipe ou PC), avec son vrai modèle et sa lettre ; « ??? » pour les autres",
                   "Passe Arceus : le pourcentage compte pour moitié les espèces capturées dans ton Pokédex et pour moitié les tâches de recherche ; les récompenses commencent à 60 %",
-                  "Mise à jour disponible : aussi signalée dans la cloche du PokéSmartphone",
-                  "PC : bouton « PC d\u0027origine » pour revenir au PC de Cobblemon (et aux mods de PC que tu as ajoutés), « PC Arceus » pour revenir ; le zoom suit",
-                  "Pâturage : objet tenu sur le portrait, boutons Défendre et Rappeler dans le PC",
-                  "Petit sac : emplacements d\u0027amélioration libres toujours visibles, panneaux des autres améliorations, même écartement des deux côtés, la souris ne saute plus en revenant à l\u0027inventaire",
-                  "Réservoirs d\u0027eau et de lave décalés pour ne plus recouvrir l\u0027équipe"
+                  "PC : bouton « PC d\u0027origine » pour revenir au PC de Cobblemon (et aux mods de PC que tu as ajoutés), « PC Arceus » pour revenir ; le zoom suit"
               ]
 }
