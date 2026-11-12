@@ -1,12 +1,14 @@
 # ATH Arceus
 
+[Retour aux mods](README.md)
+
 L'interface de PokeIsland façon Légendes Pokémon : Arceus (équipe, Pokédex, fiches, évolutions, PC, pâturage, carte de l'île).
 
-Dernière version : **0.55.0**
+Dernière version : **0.55.0**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/ath-arceus-0.55.0.jar)
 
 ## Installer ou mettre à jour
 
-1. Dans la liste des fichiers du dépôt, clique sur **ath-arceus-0.55.0.jar**, puis sur le bouton de téléchargement (Download raw file).
+1. Clique sur **Télécharger** ci-dessus : le fichier `ath-arceus-0.55.0.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `ath-arceus-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.

@@ -1,58 +1,26 @@
-# PokéSmartphone
+# Mods PokeIsland
 
-Dernière version : **1.98.0**
+Des mods faits pour le serveur **PokeIsland** (Minecraft 1.21.1 avec Fabric et Cobblemon, déjà présents dans le pack). Prends ceux que tu veux : chacun marche seul.
+
+## Télécharger
+
+Un clic sur **Télécharger** enregistre directement le fichier `.jar`.
+
+| Mod | Ce qu'il fait | Version | |
+|---|---|---|---|
+| **[PokéSmartphone](POKESMARTPHONE.md)** | Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V). | 1.98.0 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.98.0-mc1.21.1.jar) |
+| **[ATH Arceus](ATH-ARCEUS.md)** | L'interface façon Légendes Pokémon : Arceus : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :). | 0.55.0 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/ath-arceus-0.55.0.jar) |
 
 ## Installer ou mettre à jour
 
-1. Dans la liste des fichiers ci-dessus, clique sur **pokeisland-smartphone-1.98.0-mc1.21.1.jar**, puis sur le bouton de téléchargement (Download raw file). Seul le fichier `.jar` est utile.
-2. Ferme le jeu.
-3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
+1. Ferme le jeu.
+2. Ouvre le dossier `mods` de ton profil PokeIsland.
+3. Si tu avais déjà ce mod, supprime l'ancien fichier (même début de nom), puis glisse le nouveau à sa place.
 4. Relance le jeu.
 
-Quand une nouvelle version sort, le téléphone te prévient dans le tchat et dans sa cloche de notifications : refais simplement ces étapes.
+Chaque mod te prévient dans le tchat quand une nouvelle version sort : reviens ici et refais ces étapes.
 
-## Utiliser le téléphone
+## Touches et nouveautés
 
-- **F** : ouvrir le téléphone
-- **V** : ouvrir le Sac
-- Les touches se changent dans Options, Commandes, catégorie PokéSmartphone.
-
-# Mises à jour
-
-## 1.98.0 (11/11/2026)
-
-- GTS : un badge ✓ sur les objets et les Pokémon que tu possèdes déjà (sac, inventaire, équipe et PC), avec le nombre au survol.
-
-## 1.97.0 (11/11/2026)
-
-- GTS : les nouveaux joueurs démarrent avec les prix des 14 derniers jours (moyennes, tendances et graphiques dès la première ouverture).
-
-## 1.96.3 (10/11/2026)
-
-- Coques Arceus : à venir avec le prochain mod ATH Arceus.
-
-## 1.96.2 (10/11/2026)
-
-**Nouvelle page « Mon profil » dans la GTS** (ta tête en haut à droite)
-- Ton solde et tes annonces en vente, avec leur total
-- Bouton « Gérer mes annonces » (/gts manage)
-- Ta liste de souhaits (les objets marqués ★) avec leur meilleur prix du moment
-- Tes achats validés par le serveur
-
-**Vendre sur la GTS depuis le téléphone**
-- Depuis le profil : « Vendre un objet », ou un Pokémon (équipe et PC)
-- Depuis le Sac : « Vendre sur la GTS » sous la quantité, l'objet est déjà choisi
-- Depuis le PC : « Vendre sur la GTS » pour le Pokémon sélectionné
-- Prix conseillé d'après les prix vus sur la GTS ces 14 derniers jours
-
-**Notifications de mise à jour**
-- Une cloche sur le téléphone regroupe toutes tes notifications
-- Nouvelle version : un message dans le tchat et une notification qui mène à cette page
-
-**Graphique de l'historique de la GTS**
-- Un point carré sur chaque jour qui a vraiment un prix, le détail du jour au survol
-- Pokémon pas en vente dans la recherche : icône de Poké Ball
-
-## Aussi ici : ATH Arceus
-
-L'interface façon Légendes Pokémon : Arceus. Fichier `ath-arceus-...jar`, instructions et nouveautés : [ATH-ARCEUS.md](ATH-ARCEUS.md).
+- [PokéSmartphone](POKESMARTPHONE.md)
+- [ATH Arceus](ATH-ARCEUS.md)
