@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.98.0**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.98.0-mc1.21.1.jar)
+Dernière version : **1.99.1**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.1-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.98.0-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.1-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -20,6 +20,11 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 - Les touches se changent dans Options, Commandes, catégorie PokéSmartphone.
 
 # Mises à jour
+
+## 1.99.1 (13/11/2026)
+
+- PokéWorld : les apps PokéWorld et Warps ouvrent maintenant la carte des îles. Les îles débloquées sont en couleurs avec un bouton Voyager, les autres sont grisées jusqu'à ce que tu les découvres, et ta tête montre où tu es. La liste de tous les warps reste à un clic. Avec le mod ATH Arceus, c'est sa carte qui s'ouvre.
+- Coques Arceus : le passe se débloque par paliers de recherche (60, 70, 80 et 90 % du Pokédex dans ATH Arceus).
 
 ## 1.98.0 (11/11/2026)
 

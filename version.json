@@ -1,6 +1,9 @@
 {
-    "version":  "1.98.0",
-    "file":  "pokeisland-smartphone-1.98.0-mc1.21.1.jar",
-    "sha256":  "a46f079ce70dc11491cd9e538d71751b3258d2abf2ab0c188dda3d006a8abcd4",
-    "notes":  "GTS : un badge ✓ sur les objets et les Pokémon que tu possèdes déjà (sac, inventaire, équipe et PC), avec le nombre au survol."
+    "version":  "1.99.1",
+    "file":  "pokeisland-smartphone-1.99.1-mc1.21.1.jar",
+    "sha256":  "33ea823cbc814261c161b3f9186dc75d15eb84486fa1b380f48d47acb69d2853",
+    "notes":  [
+                  "PokéWorld : les apps PokéWorld et Warps ouvrent maintenant la carte des îles. Les îles débloquées sont en couleurs avec un bouton Voyager, les autres sont grisées jusqu\u0027à ce que tu les découvres, et ta tête montre où tu es. La liste de tous les warps reste à un clic. Avec le mod ATH Arceus, c\u0027est sa carte qui s\u0027ouvre.",
+                  "Coques Arceus : le passe se débloque par paliers de recherche (60, 70, 80 et 90 % du Pokédex dans ATH Arceus)."
+              ]
 }
