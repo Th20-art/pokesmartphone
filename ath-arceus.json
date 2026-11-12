@@ -1,14 +1,13 @@
 {
-    "version":  "0.55.0",
-    "file":  "ath-arceus-0.55.0.jar",
-    "sha256":  "f6f05eab98c41754c4355d05be32d8158eaee14dcd8e2077617b38f5467e818f",
+    "version":  "0.56.1",
+    "file":  "ath-arceus-0.56.1.jar",
+    "sha256":  "74d0f23f1ae0107c11c95a39090e916587fb2e18b59f2edbe96f065fd9220378",
     "notes":  [
-                  "Le mod prévient dans le tchat quand une nouvelle version est disponible sur cette page",
-                  "Carte de l\u0027île façon Hisui (touche : ou /pokeworld), îles cachées tant qu\u0027elles ne sont pas découvertes, voyage par /warp",
-                  "Bouton « Évoluer » sur les Pokémon de l\u0027équipe (E) quand une évolution est possible",
-                  "Menu de l\u0027équipe : Résumé, Gestion des capacités, Renommer, Échanger de place",
-                  "Pokédex : toutes les espèces listées, celles jamais vues en « ???? »",
-                  "Pâturage dessiné comme l\u0027équipe du PC",
-                  "Tchat classique remonté au-dessus du Pokémon"
+                  "Passe Arceus : le pourcentage compte pour moitié les espèces capturées dans ton Pokédex et pour moitié les tâches de recherche ; les récompenses commencent à 60 %",
+                  "Mise à jour disponible : aussi signalée dans la cloche du PokéSmartphone",
+                  "PC : bouton « PC d\u0027origine » pour revenir au PC de Cobblemon (et aux mods de PC que tu as ajoutés), « PC Arceus » pour revenir ; le zoom suit",
+                  "Pâturage : objet tenu sur le portrait, boutons Défendre et Rappeler dans le PC",
+                  "Petit sac : emplacements d\u0027amélioration libres toujours visibles, panneaux des autres améliorations, même écartement des deux côtés, la souris ne saute plus en revenant à l\u0027inventaire",
+                  "Réservoirs d\u0027eau et de lave décalés pour ne plus recouvrir l\u0027équipe"
               ]
 }

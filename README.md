@@ -9,7 +9,7 @@ Un clic sur **Télécharger** enregistre directement le fichier `.jar`.
 | Mod | Ce qu'il fait | Version | |
 |---|---|---|---|
 | **[PokéSmartphone](POKESMARTPHONE.md)** | Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V). | 1.98.0 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.98.0-mc1.21.1.jar) |
-| **[ATH Arceus](ATH-ARCEUS.md)** | L'interface façon Légendes Pokémon : Arceus : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :). | 0.55.0 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/ath-arceus-0.55.0.jar) |
+| **[ATH Arceus](ATH-ARCEUS.md)** | L'interface façon Légendes Pokémon : Arceus : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :). | 0.56.1 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/ath-arceus-0.56.1.jar) |
 
 ## Installer ou mettre à jour
 
