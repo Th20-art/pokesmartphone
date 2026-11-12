@@ -1,0 +1,14 @@
+{
+    "version":  "0.55.0",
+    "file":  "ath-arceus-0.55.0.jar",
+    "sha256":  "f6f05eab98c41754c4355d05be32d8158eaee14dcd8e2077617b38f5467e818f",
+    "notes":  [
+                  "Le mod prévient dans le tchat quand une nouvelle version est disponible sur cette page",
+                  "Carte de l\u0027île façon Hisui (touche : ou /pokeworld), îles cachées tant qu\u0027elles ne sont pas découvertes, voyage par /warp",
+                  "Bouton « Évoluer » sur les Pokémon de l\u0027équipe (E) quand une évolution est possible",
+                  "Menu de l\u0027équipe : Résumé, Gestion des capacités, Renommer, Échanger de place",
+                  "Pokédex : toutes les espèces listées, celles jamais vues en « ???? »",
+                  "Pâturage dessiné comme l\u0027équipe du PC",
+                  "Tchat classique remonté au-dessus du Pokémon"
+              ]
+}

@@ -1,0 +1,33 @@
+# ATH Arceus
+
+L'interface de PokeIsland façon Légendes Pokémon : Arceus (équipe, Pokédex, fiches, évolutions, PC, pâturage, carte de l'île).
+
+Dernière version : **0.55.0**
+
+## Installer ou mettre à jour
+
+1. Dans la liste des fichiers du dépôt, clique sur **ath-arceus-0.55.0.jar**, puis sur le bouton de téléchargement (Download raw file).
+2. Ferme le jeu.
+3. Dans ton dossier `mods`, supprime l'ancien fichier `ath-arceus-...` s'il y en a un, et glisse le nouveau à sa place.
+4. Relance le jeu.
+
+Il faut Minecraft 1.21.1 avec Fabric, Fabric API et Cobblemon (déjà présents dans le pack PokeIsland). Quand une nouvelle version sort, le mod te prévient dans le tchat : refais simplement ces étapes.
+
+## Touches
+
+- **Pavé numérique `*`** : revenir à l'affichage classique
+- **:** : carte de l'île (ou `/pokeworld`)
+- Les touches se changent dans Options, Commandes.
+
+# Mises à jour
+
+## 0.55.0 (12/11/2026)
+
+- Le mod prévient dans le tchat quand une nouvelle version est disponible sur cette page
+- Carte de l'île façon Hisui (touche : ou /pokeworld), îles cachées tant qu'elles ne sont pas découvertes, voyage par /warp
+- Bouton « Évoluer » sur les Pokémon de l'équipe (E) quand une évolution est possible
+- Menu de l'équipe : Résumé, Gestion des capacités, Renommer, Échanger de place
+- Pokédex : toutes les espèces listées, celles jamais vues en « ???? »
+- Pâturage dessiné comme l'équipe du PC
+- Tchat classique remonté au-dessus du Pokémon
+

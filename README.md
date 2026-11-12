@@ -52,3 +52,7 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 **Graphique de l'historique de la GTS**
 - Un point carré sur chaque jour qui a vraiment un prix, le détail du jour au survol
 - Pokémon pas en vente dans la recherche : icône de Poké Ball
+
+## Aussi ici : ATH Arceus
+
+L'interface façon Légendes Pokémon : Arceus. Fichier `ath-arceus-...jar`, instructions et nouveautés : [ATH-ARCEUS.md](ATH-ARCEUS.md).
