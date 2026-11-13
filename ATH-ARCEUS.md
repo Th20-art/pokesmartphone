@@ -4,11 +4,11 @@
 
 L'interface de PokeIsland façon Légendes Pokémon : Arceus (équipe, Pokédex, fiches, évolutions, PC, pâturage, carte de l'île).
 
-Dernière version : **0.56.3**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/ath-arceus-0.56.3.jar)
+Dernière version : **0.58.5**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/ath-arceus-0.58.5.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `ath-arceus-0.56.3.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `ath-arceus-0.58.5.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `ath-arceus-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -22,6 +22,15 @@ Il faut Minecraft 1.21.1 avec Fabric, Fabric API et Cobblemon (déjà présents 
 - Les touches se changent dans Options, Commandes.
 
 # Mises à jour
+
+## 0.58.5 (13/11/2026)
+
+- Inventaire et Petit sac : fond sombre par défaut, un soleil / une lune en haut à droite pour passer au fond clair
+- JEI : sa liste se range sur un parchemin à droite, centrée, avec ses boutons à l'encre ; une croix l'enroule, « Ouvrir » le déroule
+- Les onglets PokeIsland (Niveau dresseur, PokéWorld, Mon île, Boutique, Menu) en rangée au-dessus de l'équipe
+- Avec l'ATH, les affichages d'équipe ajoutés par d'autres mods sont masqués (sauf en combat)
+- Plus de FPS : icônes des PNJ, portraits ronds, livre du Pokédex et couleurs d'Ambient Environment allégés
+- Le losange de l'ATH en filigrane sur l'inventaire, le PC, le résumé, le Pokédex et le parchemin
 
 ## 0.56.3 (13/11/2026)
 
