@@ -1,13 +1,6 @@
 {
-    "version":  "0.58.5",
-    "file":  "ath-arceus-0.58.5.jar",
-    "sha256":  "4ec874f0e1950efdc290522ca596f66631be5dd009c8c3d2ae411860f8e58aaa",
-    "notes":  [
-                  "Inventaire et Petit sac : fond sombre par défaut, un soleil / une lune en haut à droite pour passer au fond clair",
-                  "JEI : sa liste se range sur un parchemin à droite, centrée, avec ses boutons à l\u0027encre ; une croix l\u0027enroule, « Ouvrir » le déroule",
-                  "Les onglets PokeIsland (Niveau dresseur, PokéWorld, Mon île, Boutique, Menu) en rangée au-dessus de l\u0027équipe",
-                  "Avec l\u0027ATH, les affichages d\u0027équipe ajoutés par d\u0027autres mods sont masqués (sauf en combat)",
-                  "Plus de FPS : icônes des PNJ, portraits ronds, livre du Pokédex et couleurs d\u0027Ambient Environment allégés",
-                  "Le losange de l\u0027ATH en filigrane sur l\u0027inventaire, le PC, le résumé, le Pokédex et le parchemin"
-              ]
+    "version":  "0.58.6",
+    "file":  "ath-arceus-0.58.6.jar",
+    "sha256":  "bfa398dbd6080d7868ad35f64f5e78e8ee05b2813a228508b59d2591b6212428",
+    "notes":  "Le losange de l\u0027ATH reste au même endroit, au centre de l\u0027écran, quand on passe de la page Objets au Petit sac"
 }
