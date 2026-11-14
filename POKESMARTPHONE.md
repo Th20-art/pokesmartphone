@@ -19,6 +19,12 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 - **V** : ouvrir le Sac
 - Les touches se changent dans Options, Commandes, catégorie PokéSmartphone.
 
+## Licence et mentions
+
+Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Pokémon Company, Game Freak, Mojang ni à l'équipe Cobblemon. Pokémon et Arceus sont des marques de leurs propriétaires.
+
+Tu peux les télécharger et y jouer librement, et partager le lien de cette page. Il est interdit de les vendre, de les mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails et crédits (textures Cobblemon Smartphone, Tabler Icons, Lugia de Cobblemon: Mega Showdown) : voir [LICENSE](LICENSE).
+
 # Mises à jour
 
 ## 1.99.3 (14/11/2026)
