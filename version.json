@@ -1,11 +1,8 @@
 {
-    "version": "1.99.3",
-    "file": "pokeisland-smartphone-1.99.3-mc1.21.1.jar",
-    "sha256": "431fc59592adf76503c58b54cec21c26b5e085e15d18e798671ad88e4c8aa5c6",
+    "version": "1.99.4",
+    "file": "pokeisland-smartphone-1.99.4-mc1.21.1.jar",
+    "sha256": "8c601a5c6a3fb759bff95e770ec6761c5847c968d3b25ae41dea188a144ced41",
     "notes": [
-        "Notifications : les messages privés et de groupe ne s'affichent plus dans les notifications (seulement dans l'appli Amis).",
-        "Rappels : une notification quand tes kits reviennent (24 h, 30 jours pour les kits du mois), avec un bouton Récupérer.",
-        "Arènes : quand tu cliques un champion, le téléphone lit le temps d'attente ; après une victoire, une défaite ou un abandon il compte le délai (selon le palier) et te prévient quand l'arène, ou l'arène cachée, est de nouveau disponible.",
-        "Partage des prix : quand un vendeur met plusieurs annonces identiques (même objet, même prix), chacune compte maintenant, et revoir la GTS ne les recompte toujours pas."
+        "Coque Halloween."
     ]
 }
