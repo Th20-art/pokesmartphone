@@ -1,0 +1,51 @@
+Mods PokeIsland de ce dépôt (PokéSmartphone, Légende ATH)
+Copyright (c) 2026 LePandaChanceux (Th20-art). Tous droits réservés, sauf ce qui est autorisé ci-dessous.
+
+1. CE QUI EST AUTORISÉ
+
+- Télécharger les mods depuis ce dépôt et les utiliser gratuitement pour jouer,
+  en solo ou sur un serveur (dont PokeIsland).
+- Partager un lien vers ce dépôt (Discord, forum, site...).
+- Montrer les mods en vidéo, en stream ou en capture d'écran.
+
+2. CE QUI EST INTERDIT SANS MON ACCORD ÉCRIT
+
+- Vendre les mods, les faire payer ou les mettre derrière un accès payant
+  (rang, grade, abonnement, boost, boutique...).
+- Les redistribuer ailleurs que via ce dépôt (réupload du fichier .jar,
+  intégration dans un autre modpack, miroir...). Un lien vers ce dépôt reste autorisé.
+- Modifier les mods et publier la version modifiée.
+- Réutiliser leur code ou leurs assets originaux dans un autre projet.
+- Utiliser les mods ou leur contenu (coques, apparences, applis...) pour vendre ou
+  promouvoir quoi que ce soit contre de l'argent réel : rang, grade, caisse, clé,
+  cosmétique ou accès vendu sur une boutique (Tebex ou autre).
+
+Précision : « vendre » et « payant » désignent ici l'argent réel. Les fonctions de jeu
+qui utilisent la monnaie du jeu (GTS, CobbleDollars, shop en jeu, échanges entre joueurs)
+sont autorisées : ce ne sont pas des usages commerciaux au sens de cette licence.
+
+3. ÉLÉMENTS DE TIERS (ils gardent leur propre licence)
+
+- Textures du téléphone et des boutons : Cobblemon Smartphone, RapidMesck / ZungGames (NBP),
+  https://github.com/RapidMesck/cobblemon_smartphone_main, licence MIT.
+- Icônes : Tabler Icons, Paweł Kuna, licence MIT.
+- Apparence « Lugia XD » : adaptation du Lugia de Cobblemon: Mega Showdown (YajatKaul),
+  distribuée sous Creative Commons BY-NC-SA 4.0
+  (https://creativecommons.org/licenses/by-nc-sa/4.0/). Usage non commercial uniquement.
+
+Les textes complets de ces licences sont inclus dans le fichier .jar
+(LICENSE-textures.txt, LICENSE-tabler-icons.txt, LICENSE-lugia-xd.txt).
+Cette licence ne s'applique qu'à mon propre travail : elle ne retire aucun droit
+accordé par ces licences tierces.
+
+4. PROJET DE FAN NON OFFICIEL
+
+Ces mods sont des projets de fans gratuits, non officiels, et ne sont affiliés ni approuvés
+par Nintendo, The Pokémon Company, Game Freak, Creatures Inc., Mojang, Microsoft
+ou l'équipe Cobblemon. Pokémon et les noms associés sont des marques de leurs
+propriétaires respectifs. Aucun droit sur ces marques ou personnages n'est revendiqué.
+
+5. AUCUNE GARANTIE
+
+Les mods sont fournis « tels quels », sans garantie d'aucune sorte. Je ne suis pas
+responsable des problèmes liés à leur utilisation (bugs, pertes de données, etc.).
