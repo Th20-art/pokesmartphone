@@ -4,15 +4,13 @@
 
 L'interface de PokeIsland façon carnet d'explorateur (équipe, Pokédex, fiches, évolutions, PC, pâturage, carte de l'île).
 
-*Anciennement « ATH Arceus ». Si tu as l'ancienne version, supprime le fichier `ath-arceus-...` de ton dossier `mods` avant d'ajouter le nouveau.*
-
 Dernière version : **0.58.6**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.58.6.jar)
 
 ## Installer ou mettre à jour
 
 1. Clique sur **Télécharger** ci-dessus : le fichier `legende-ath-0.58.6.jar` s'enregistre.
 2. Ferme le jeu.
-3. Dans ton dossier `mods`, supprime l'ancien fichier `legende-ath-...` ou `ath-arceus-...` s'il y en a un, et glisse le nouveau à sa place.
+3. Dans ton dossier `mods`, supprime l'ancienne version du mod s'il y en a une, et glisse le nouveau à sa place.
 4. Relance le jeu.
 
 Il faut Minecraft 1.21.1 avec Fabric, Fabric API et Cobblemon (déjà présents dans le pack PokeIsland). Quand une nouvelle version sort, le mod te prévient dans le tchat : refais simplement ces étapes.
