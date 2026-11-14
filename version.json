@@ -1,7 +1,7 @@
 {
     "version": "1.99.3",
     "file": "pokeisland-smartphone-1.99.3-mc1.21.1.jar",
-    "sha256": "2670c41f288e39ad82e996452be8f97b30a4db60a4481b9cb0ba4706c4c6cafc",
+    "sha256": "431fc59592adf76503c58b54cec21c26b5e085e15d18e798671ad88e4c8aa5c6",
     "notes": [
         "Notifications : les messages privés et de groupe ne s'affichent plus dans les notifications (seulement dans l'appli Amis).",
         "Rappels : une notification quand tes kits reviennent (24 h, 30 jours pour les kits du mois), avec un bouton Récupérer.",
