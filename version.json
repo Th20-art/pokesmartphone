@@ -1,6 +1,11 @@
 {
-    "version":  "1.99.2",
-    "file":  "pokeisland-smartphone-1.99.2-mc1.21.1.jar",
-    "sha256":  "ec703f513c845691a144ac9c9589e59137a133aba4d1449cea1193d0256361ef",
-    "notes":  "Performances : le téléphone qui flotte près des joueurs coûte beaucoup moins de FPS (ses faces cachées ne sont plus dessinées, et ses petits reliefs plus au-delà de 12 blocs)."
+    "version":  "1.99.3",
+    "file":  "pokeisland-smartphone-1.99.3-mc1.21.1.jar",
+    "sha256":  "f70362b517d2238855f449ae5abd2d19678fb010d4352b2c07f0c60d74175b5d",
+    "notes":  [
+                  "Notifications : les messages privés et de groupe ne s\u0027affichent plus dans les notifications (seulement dans l\u0027appli Amis).",
+                  "Rappels : une notification quand tes kits reviennent (24 h, 30 jours pour les kits du mois), avec un bouton Récupérer.",
+                  "Arènes : quand tu cliques un champion, le téléphone lit le temps d\u0027attente ; après une victoire, une défaite ou un abandon il compte le délai (selon le palier) et te prévient quand l\u0027arène, ou l\u0027arène cachée, est de nouveau disponible.",
+                  "Partage des prix : quand un vendeur met plusieurs annonces identiques (même objet, même prix), chacune compte maintenant, et revoir la GTS ne les recompte toujours pas."
+              ]
 }

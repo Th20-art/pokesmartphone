@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.99.2**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.2-mc1.21.1.jar)
+Dernière version : **1.99.3**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.3-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.2-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.3-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -20,6 +20,13 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 - Les touches se changent dans Options, Commandes, catégorie PokéSmartphone.
 
 # Mises à jour
+
+## 1.99.3 (14/11/2026)
+
+- Notifications : les messages privés et de groupe ne s'affichent plus dans les notifications (seulement dans l'appli Amis).
+- Rappels : une notification quand tes kits reviennent (24 h, 30 jours pour les kits du mois), avec un bouton Récupérer.
+- Arènes : quand tu cliques un champion, le téléphone lit le temps d'attente ; après une victoire, une défaite ou un abandon il compte le délai (selon le palier) et te prévient quand l'arène, ou l'arène cachée, est de nouveau disponible.
+- Partage des prix : quand un vendeur met plusieurs annonces identiques (même objet, même prix), chacune compte maintenant, et revoir la GTS ne les recompte toujours pas.
 
 ## 1.99.2 (13/11/2026)
 
