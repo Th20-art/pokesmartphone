@@ -21,7 +21,7 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 
 ## Licence et mentions
 
-Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Pokémon Company, Game Freak, Mojang ni à l'équipe Cobblemon. Pokémon et Arceus sont des marques de leurs propriétaires.
+Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Pokémon Company, Game Freak, Mojang ni à l'équipe Cobblemon. Pokémon et les noms associés sont des marques de leurs propriétaires.
 
 Tu peux les télécharger et y jouer librement, et partager le lien de cette page. Il est interdit de les vendre, de les mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails et crédits (textures Cobblemon Smartphone, Tabler Icons, Lugia de Cobblemon: Mega Showdown) : voir [LICENSE](LICENSE).
 
@@ -40,8 +40,8 @@ Tu peux les télécharger et y jouer librement, et partager le lien de cette pag
 
 ## 1.99.1 (13/11/2026)
 
-- PokéWorld : les apps PokéWorld et Warps ouvrent maintenant la carte des îles. Les îles débloquées sont en couleurs avec un bouton Voyager, les autres sont grisées jusqu'à ce que tu les découvres, et ta tête montre où tu es. La liste de tous les warps reste à un clic. Avec le mod ATH Arceus, c'est sa carte qui s'ouvre.
-- Coques Arceus : le passe se débloque par paliers de recherche (60, 70, 80 et 90 % du Pokédex dans ATH Arceus).
+- PokéWorld : les apps PokéWorld et Warps ouvrent maintenant la carte des îles. Les îles débloquées sont en couleurs avec un bouton Voyager, les autres sont grisées jusqu'à ce que tu les découvres, et ta tête montre où tu es. La liste de tous les warps reste à un clic. Avec le mod Légende ATH, c'est sa carte qui s'ouvre.
+- Coques Arceus : le passe se débloque par paliers de recherche (60, 70, 80 et 90 % du Pokédex dans Légende ATH).
 
 ## 1.98.0 (11/11/2026)
 
@@ -53,7 +53,7 @@ Tu peux les télécharger et y jouer librement, et partager le lien de cette pag
 
 ## 1.96.3 (10/11/2026)
 
-- Coques Arceus : à venir avec le prochain mod ATH Arceus.
+- Coques Arceus : à venir avec le prochain mod Légende ATH.
 
 ## 1.96.2 (10/11/2026)
 
