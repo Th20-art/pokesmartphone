@@ -48,14 +48,14 @@ Tu peux le télécharger, y jouer et partager le lien de cette page. Il est inte
 
 - IV : la vraie valeur est affichée, hyper entraînement compris (cristaux d'IV parfaits)
 - Zarbidex : une forme compte quand tu possèdes ce Zarbi (équipe ou PC), avec son vrai modèle et sa lettre ; « ??? » pour les autres
-- Passe de recherche : le pourcentage compte pour moitié les espèces capturées dans ton Pokédex et pour moitié les tâches de recherche ; les récompenses commencent à 60 %
-- PC : bouton « PC d'origine » pour revenir au PC de Cobblemon (et aux mods de PC que tu as ajoutés), « PC de l'ATH » pour revenir ; le zoom suit
+- Passe Légende : le pourcentage compte pour moitié les espèces capturées dans ton Pokédex et pour moitié les tâches de recherche ; les récompenses commencent à 60 %
+- PC : bouton « PC d'origine » pour revenir au PC de Cobblemon (et aux mods de PC que tu as ajoutés), « PC Légende » pour revenir ; le zoom suit
 
 ## 0.56.1 (13/11/2026)
 
-- Passe de recherche : le pourcentage compte pour moitié les espèces capturées dans ton Pokédex et pour moitié les tâches de recherche ; les récompenses commencent à 60 %
+- Passe Légende : le pourcentage compte pour moitié les espèces capturées dans ton Pokédex et pour moitié les tâches de recherche ; les récompenses commencent à 60 %
 - Mise à jour disponible : aussi signalée dans la cloche du PokéSmartphone
-- PC : bouton « PC d'origine » pour revenir au PC de Cobblemon (et aux mods de PC que tu as ajoutés), « PC de l'ATH » pour revenir ; le zoom suit
+- PC : bouton « PC d'origine » pour revenir au PC de Cobblemon (et aux mods de PC que tu as ajoutés), « PC Légende » pour revenir ; le zoom suit
 - Pâturage : objet tenu sur le portrait, boutons Défendre et Rappeler dans le PC
 - Petit sac : emplacements d'amélioration libres toujours visibles, panneaux des autres améliorations, même écartement des deux côtés, la souris ne saute plus en revenant à l'inventaire
 - Réservoirs d'eau et de lave décalés pour ne plus recouvrir l'équipe
