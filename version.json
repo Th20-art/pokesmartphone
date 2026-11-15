@@ -1,8 +1,6 @@
 {
-    "version": "1.99.4",
-    "file": "pokeisland-smartphone-1.99.4-mc1.21.1.jar",
-    "sha256": "8c601a5c6a3fb759bff95e770ec6761c5847c968d3b25ae41dea188a144ced41",
-    "notes": [
-        "Coque Halloween."
-    ]
+    "version":  "1.99.5",
+    "file":  "pokeisland-smartphone-1.99.5-mc1.21.1.jar",
+    "sha256":  "57e50e58aeb55f843620ecf6c682cdf592e0d077a6d058bcbe63e6a1f946a8a2",
+    "notes":  "GTS : la recherche trouve n\u0027importe quel objet ou Pokémon du jeu, même s\u0027il n\u0027est pas en vente, avec son prix calculé (moyenne 14 jours, sinon la cote du serveur) ou « aucun prix connu »."
 }
