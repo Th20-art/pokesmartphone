@@ -25,9 +25,9 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 
 - GTS : la recherche trouve n'importe quel objet ou Pokémon du jeu, même s'il n'est pas en vente, avec son prix calculé (moyenne 14 jours, sinon la cote du serveur) ou « aucun prix connu ».
 
-## 1.99.4 (15/11/2026)
+## 1.99.4 (14/11/2026)
 
-- GTS : la recherche trouve n'importe quel objet ou Pokémon du jeu, même s'il n'est pas en vente, avec son prix calculé (moyenne 14 jours, sinon la cote du serveur) ou « aucun prix connu ».
+- Coque Halloween.
 
 ## 1.99.3 (14/11/2026)
 
@@ -42,8 +42,8 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 
 ## 1.99.1 (13/11/2026)
 
-- PokéWorld : les apps PokéWorld et Warps ouvrent maintenant la carte des îles. Les îles débloquées sont en couleurs avec un bouton Voyager, les autres sont grisées jusqu'à ce que tu les découvres, et ta tête montre où tu es. La liste de tous les warps reste à un clic. Avec le mod ATH Arceus, c'est sa carte qui s'ouvre.
-- Coques Arceus : le passe se débloque par paliers de recherche (60, 70, 80 et 90 % du Pokédex dans ATH Arceus).
+- PokéWorld : les apps PokéWorld et Warps ouvrent maintenant la carte des îles. Les îles débloquées sont en couleurs avec un bouton Voyager, les autres sont grisées jusqu'à ce que tu les découvres, et ta tête montre où tu es. La liste de tous les warps reste à un clic. Avec le mod Légende ATH, c'est sa carte qui s'ouvre.
+- Coques Légende : le passe se débloque par paliers de recherche (60, 70, 80 et 90 % du Pokédex dans Légende ATH).
 
 ## 1.98.0 (11/11/2026)
 
@@ -55,7 +55,7 @@ Quand une nouvelle version sort, le téléphone te prévient dans le tchat et da
 
 ## 1.96.3 (10/11/2026)
 
-- Coques Arceus : à venir avec le prochain mod ATH Arceus.
+- Coques Légende : à venir avec le prochain mod Légende ATH.
 
 ## 1.96.2 (10/11/2026)
 
