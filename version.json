@@ -1,7 +1,7 @@
 {
-    "version":  "1.99.6",
-    "file":  "pokeisland-smartphone-1.99.6-mc1.21.1.jar",
-    "sha256":  "631b9ad2602c11edd53cb352492a05ab2270cb681d52b189fb9548c39269fa17",
+    "version":  "1.99.7",
+    "file":  "pokeisland-smartphone-1.99.7-mc1.21.1.jar",
+    "sha256":  "145002503297009e81566fcc1323392d274ffdbfb17de97e47e1119bcce04c63",
     "notes":  [
                   "GTS : compatible avec la nouvelle GTS du serveur. La vue améliorée lit les annonces directement et charge toute la liste en une dizaine de secondes, sans risque d\u0027expulsion pour spam.",
                   "GTS : en plein écran, l\u0027écran du serveur caché derrière ; une fenêtre te demande de confirmer chaque achat (Entrée pour acheter, Échap pour annuler).",
