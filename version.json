@@ -1,6 +1,14 @@
 {
-    "version":  "1.99.5",
-    "file":  "pokeisland-smartphone-1.99.5-mc1.21.1.jar",
-    "sha256":  "57e50e58aeb55f843620ecf6c682cdf592e0d077a6d058bcbe63e6a1f946a8a2",
-    "notes":  "GTS : la recherche trouve n\u0027importe quel objet ou Pokémon du jeu, même s\u0027il n\u0027est pas en vente, avec son prix calculé (moyenne 14 jours, sinon la cote du serveur) ou « aucun prix connu »."
+    "version":  "1.99.6",
+    "file":  "pokeisland-smartphone-1.99.6-mc1.21.1.jar",
+    "sha256":  "3e203f87a1f17f0ff594887a9bfb45b18fab1f088dea54c9e033162a9cc49c09",
+    "notes":  [
+                  "GTS : compatible avec la nouvelle GTS du serveur. La vue améliorée lit les annonces directement et charge toute la liste en une dizaine de secondes, sans risque d\u0027expulsion pour spam.",
+                  "GTS : en plein écran, l\u0027écran du serveur caché derrière ; une fenêtre te demande de confirmer chaque achat (Entrée pour acheter, Échap pour annuler).",
+                  "GTS : bouton « GTS du serveur » pour passer sur l\u0027écran du serveur (mes ventes, expirées, vendre) ; « Vue améliorée » pour revenir. Si le serveur change encore sa GTS, son écran s\u0027affiche tout seul au lieu de bloquer.",
+                  "GTS : noms des objets et des Pokémon en français, CT et DT comprises.",
+                  "GTS : les skins des Pokémon (Éclipse, Black Friday...) sont reconnus et affichés sur leur icône, avec leur vitrine d\u0027événement ; la recherche les trouve aussi (tape le Pokémon, le skin ou « skin »).",
+                  "GTS : chaque objet indique quand il a été vu en vente pour la dernière fois et à quel prix.",
+                  "Vente : bouton « Vendre sur la GTS ». Un Pokémon du PC se vend même équipe pleine (ton 6e Pokémon lui laisse sa place le temps de la vente, puis revient) ou quand il ne reste qu\u0027un Pokémon dans l\u0027équipe (un Pokémon du PC le rejoint)."
+              ]
 }

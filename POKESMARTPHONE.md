@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.99.5**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.5-mc1.21.1.jar)
+Dernière version : **1.99.6**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.6-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.5-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.6-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -26,6 +26,16 @@ Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Po
 Tu peux les télécharger et y jouer librement, et partager le lien de cette page. Il est interdit de les vendre, de les mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails et crédits (textures Cobblemon Smartphone, Tabler Icons, Lugia de Cobblemon: Mega Showdown) : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 1.99.6 (17/11/2026)
+
+- GTS : compatible avec la nouvelle GTS du serveur. La vue améliorée lit les annonces directement et charge toute la liste en une dizaine de secondes, sans risque d'expulsion pour spam.
+- GTS : en plein écran, l'écran du serveur caché derrière ; une fenêtre te demande de confirmer chaque achat (Entrée pour acheter, Échap pour annuler).
+- GTS : bouton « GTS du serveur » pour passer sur l'écran du serveur (mes ventes, expirées, vendre) ; « Vue améliorée » pour revenir. Si le serveur change encore sa GTS, son écran s'affiche tout seul au lieu de bloquer.
+- GTS : noms des objets et des Pokémon en français, CT et DT comprises.
+- GTS : les skins des Pokémon (Éclipse, Black Friday...) sont reconnus et affichés sur leur icône, avec leur vitrine d'événement ; la recherche les trouve aussi (tape le Pokémon, le skin ou « skin »).
+- GTS : chaque objet indique quand il a été vu en vente pour la dernière fois et à quel prix.
+- Vente : bouton « Vendre sur la GTS ». Un Pokémon du PC se vend même équipe pleine (ton 6e Pokémon lui laisse sa place le temps de la vente, puis revient) ou quand il ne reste qu'un Pokémon dans l'équipe (un Pokémon du PC le rejoint).
 
 ## 1.99.5 (15/11/2026)
 
