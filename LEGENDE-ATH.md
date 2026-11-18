@@ -4,11 +4,11 @@
 
 L'interface de PokeIsland façon carnet d'explorateur (équipe, Pokédex, fiches, évolutions, PC, pâturage, carte de l'île).
 
-Dernière version : **0.58.6**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.58.6.jar)
+Dernière version : **0.64.1**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.64.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `legende-ath-0.58.6.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `legende-ath-0.64.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancienne version du mod s'il y en a une, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -17,9 +17,7 @@ Il faut Minecraft 1.21.1 avec Fabric, Fabric API et Cobblemon (déjà présents 
 
 ## Masquer les panneaux PokeIsland
 
-Si les quêtes à droite et les statistiques en haut reviennent après une mise à jour, ferme Minecraft et sauvegarde le fichier `config/pokeisland.json` de ton profil. Dans la section `hud`, mets `enabled` à `false` pour `quest`, `playerStats`, `lobby` et `playerRegion`.
-
-Si tu utilises Git, télécharge le [correctif de configuration](masquer-hud-pokeisland.patch) et applique-le depuis le dossier de ton profil avec `git apply chemin/vers/masquer-hud-pokeisland.patch`. Relance Minecraft après avoir enregistré les changements.
+Depuis la version 0.64.1, le mod masque ces panneaux automatiquement quand l'ATH est actif. Si tu as appliqué le correctif manuel précédent, tu peux restaurer ta sauvegarde de config/pokeisland.json pour retrouver tes réglages en mode classique.
 
 ## Touches
 
@@ -34,6 +32,10 @@ Mod gratuit, **projet de fan non officiel** : non affilié à Nintendo, The Pok�
 Tu peux le télécharger, y jouer et partager le lien de cette page. Il est interdit de le vendre, de le mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 0.64.1 (18/11/2026)
+
+- Les quêtes à droite et les statistiques PokeIsland en haut sont masquées quand Légende ATH est actif. La barre et le niveau d'XP de Minecraft restent visibles au-dessus de la barre d'inventaire.
 
 ## 0.58.6 (13/11/2026)
 
