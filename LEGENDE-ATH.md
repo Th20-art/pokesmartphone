@@ -15,6 +15,12 @@ Dernière version : **0.58.6**  [**⬇ Télécharger**](https://github.com/Th20-
 
 Il faut Minecraft 1.21.1 avec Fabric, Fabric API et Cobblemon (déjà présents dans le pack PokeIsland). Quand une nouvelle version sort, le mod te prévient dans le tchat : refais simplement ces étapes.
 
+## Masquer les panneaux PokeIsland
+
+Si les quêtes à droite et les statistiques en haut reviennent après une mise à jour, ferme Minecraft et sauvegarde le fichier `config/pokeisland.json` de ton profil. Dans la section `hud`, mets `enabled` à `false` pour `quest`, `playerStats`, `lobby` et `playerRegion`.
+
+Si tu utilises Git, télécharge le [correctif de configuration](masquer-hud-pokeisland.patch) et applique-le depuis le dossier de ton profil avec `git apply chemin/vers/masquer-hud-pokeisland.patch`. Relance Minecraft après avoir enregistré les changements.
+
 ## Touches
 
 - **Pavé numérique `*`** : revenir à l'affichage classique
