@@ -1,9 +1,10 @@
 {
-    "version":  "1.99.11",
-    "file":  "pokeisland-smartphone-1.99.11-mc1.21.1.jar",
-    "sha256":  "eaa40324ab9be8a00be7d26326f97fba736e6b57a73b559954ebf206921bf57b",
+    "version":  "1.99.12",
+    "file":  "pokeisland-smartphone-1.99.12-mc1.21.1.jar",
+    "sha256":  "f058e8a098bbc3ca313e1ab325d12dfb18cd09cea74d16db5a1d5fd0de9be754",
     "notes":  [
-                  "GTS : nouvelle catégorie « Pêche » : toutes les cannes à pêche (Minecraft, Cobblemon, serveur), les améliorations de canne, les appâts et les poissons du serveur.",
-                  "GTS : le code est rangé en plusieurs fichiers, pour des mises à jour plus sûres (aucun changement visible)."
+                  "GTS : la rareté des poissons du serveur (Commun à Mythique) s\u0027affiche sur leur carte et au survol ; la recherche « légendaire » ou « mythique » les trouve aussi.",
+                  "GTS : les écailles de Léviator rejoignent la catégorie « Pêche ».",
+                  "GTS : nouvelle catégorie « Armures » : toutes les armures des mods (serveur, Cobblemon Armory...)."
               ]
 }
