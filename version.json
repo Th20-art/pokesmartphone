@@ -1,12 +1,6 @@
 {
-    "version":  "1.99.9",
-    "file":  "pokeisland-smartphone-1.99.9-mc1.21.1.jar",
-    "sha256":  "c2059be742f8b46733c729a3b0a0437ef6aa021fdc4c516f11aec6b4deea0b86",
-    "notes":  [
-                  "GTS : la liste complète se vérifie en une dizaine de secondes, en une seule lecture (le serveur envoie maintenant toutes les offres d\u0027un coup).",
-                  "GTS : le bouton « Trier » ouvre un menu avec tous les tris : bonnes affaires, moins cher, plus cher, meilleures ventes, récent, fin bientôt, nom (A à Z) et plus d\u0027annonces.",
-                  "GTS : les filtres Pokémon se cumulent (shiny ou légendaire ou fabuleux...) au lieu de se restreindre.",
-                  "GTS : un Pokémon avec un skin n\u0027est plus compté comme possédé parce que tu as la même espèce sans ce skin.",
-                  "GTS : une liste ancienne n\u0027est plus prise pour la liste du serveur à la réouverture."
-              ]
+    "version":  "1.99.10",
+    "file":  "pokeisland-smartphone-1.99.10-mc1.21.1.jar",
+    "sha256":  "bbc096de02985414191e9d6e6d2b4f5a228773493599eaf5e88bd582a1db3f45",
+    "notes":  "GTS : le mod est plus léger, le code de l\u0027ancienne GTS en coffre (d\u0027avant la mise à jour du serveur) est retiré."
 }
