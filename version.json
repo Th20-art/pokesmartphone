@@ -1,17 +1,12 @@
 {
-    "version":  "1.99.8",
-    "file":  "pokeisland-smartphone-1.99.8-mc1.21.1.jar",
-    "sha256":  "2d09ab810decb47ed8ea9060da2c9fc256520895dee2606b325f9c1bb31b050d",
+    "version":  "1.99.9",
+    "file":  "pokeisland-smartphone-1.99.9-mc1.21.1.jar",
+    "sha256":  "c2059be742f8b46733c729a3b0a0437ef6aa021fdc4c516f11aec6b4deea0b86",
     "notes":  [
-                  "GTS : ta liste s\u0027affiche tout de suite à l\u0027ouverture, même après avoir relancé le jeu, puis se vérifie toute seule en une quinzaine de secondes, des offres les plus chères aux moins chères.",
-                  "GTS : une offre vendue ou retirée disparaît de la liste. Si tu essaies d\u0027acheter une offre qui n\u0027existe plus, une fenêtre te le dit et rien n\u0027est payé.",
-                  "GTS : après un achat, une fenêtre de remerciement avec ton nouveau solde et un bouton « Acheter à nouveau chez » le vendeur.",
-                  "GTS : fiche complète avant d\u0027acheter un Pokémon : modèle, niveau, nature, talent, IV et toutes ses attaques.",
-                  "GTS : étoile pour les Pokémon shiny, étiquettes Skin et Fusion, filtres Pokémon (shiny, légendaire, fabuleux, ultra-chimère, paradoxe, skin, fusion, classique, pas possédé) et les mêmes mots dans la recherche.",
-                  "GTS : nouvelle vitrine Black Friday.",
-                  "Profil : corbeille pour retirer une de tes annonces (deux clics), ton rang face aux autres vendeurs avec un conseil de prix, courbe dépenses et gains sur 14 jours, et une notification quand une de tes annonces est vendue.",
-                  "GTS : « Actualiser » relance la lecture, avec une barre de chargement le long de la navigation.",
-                  "Prix : les moyennes tiennent compte de 60 jours, les prix récents comptant le plus. Les objets rares ont enfin une estimation.",
-                  "Confidentialité : le journal de diagnostic ne garde plus le tchat des autres joueurs ; il est limité à 14 jours et compressé."
+                  "GTS : la liste complète se vérifie en une dizaine de secondes, en une seule lecture (le serveur envoie maintenant toutes les offres d\u0027un coup).",
+                  "GTS : le bouton « Trier » ouvre un menu avec tous les tris : bonnes affaires, moins cher, plus cher, meilleures ventes, récent, fin bientôt, nom (A à Z) et plus d\u0027annonces.",
+                  "GTS : les filtres Pokémon se cumulent (shiny ou légendaire ou fabuleux...) au lieu de se restreindre.",
+                  "GTS : un Pokémon avec un skin n\u0027est plus compté comme possédé parce que tu as la même espèce sans ce skin.",
+                  "GTS : une liste ancienne n\u0027est plus prise pour la liste du serveur à la réouverture."
               ]
 }

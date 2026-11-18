@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.99.8**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.8-mc1.21.1.jar)
+Dernière version : **1.99.9**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.9-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.8-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.9-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -26,6 +26,14 @@ Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Po
 Tu peux les télécharger et y jouer librement, et partager le lien de cette page. Il est interdit de les vendre, de les mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails et crédits (textures Cobblemon Smartphone, Tabler Icons, Lugia de Cobblemon: Mega Showdown) : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 1.99.9 (18/11/2026)
+
+- GTS : la liste complète se vérifie en une dizaine de secondes, en une seule lecture (le serveur envoie maintenant toutes les offres d'un coup).
+- GTS : le bouton « Trier » ouvre un menu avec tous les tris : bonnes affaires, moins cher, plus cher, meilleures ventes, récent, fin bientôt, nom (A à Z) et plus d'annonces.
+- GTS : les filtres Pokémon se cumulent (shiny ou légendaire ou fabuleux...) au lieu de se restreindre.
+- GTS : un Pokémon avec un skin n'est plus compté comme possédé parce que tu as la même espèce sans ce skin.
+- GTS : une liste ancienne n'est plus prise pour la liste du serveur à la réouverture.
 
 ## 1.99.8 (18/11/2026)
 
