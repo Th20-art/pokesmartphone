@@ -1,14 +1,17 @@
 {
-    "version":  "1.99.7",
-    "file":  "pokeisland-smartphone-1.99.7-mc1.21.1.jar",
-    "sha256":  "145002503297009e81566fcc1323392d274ffdbfb17de97e47e1119bcce04c63",
+    "version":  "1.99.8",
+    "file":  "pokeisland-smartphone-1.99.8-mc1.21.1.jar",
+    "sha256":  "2d09ab810decb47ed8ea9060da2c9fc256520895dee2606b325f9c1bb31b050d",
     "notes":  [
-                  "GTS : compatible avec la nouvelle GTS du serveur. La vue améliorée lit les annonces directement et charge toute la liste en une dizaine de secondes, sans risque d\u0027expulsion pour spam.",
-                  "GTS : en plein écran, l\u0027écran du serveur caché derrière ; une fenêtre te demande de confirmer chaque achat (Entrée pour acheter, Échap pour annuler).",
-                  "GTS : bouton « GTS du serveur » pour passer sur l\u0027écran du serveur (mes ventes, expirées, vendre) ; « Vue améliorée » pour revenir. Si le serveur change encore sa GTS, son écran s\u0027affiche tout seul au lieu de bloquer.",
-                  "GTS : noms des objets et des Pokémon en français, CT et DT comprises.",
-                  "GTS : les skins des Pokémon (Éclipse, Black Friday...) sont reconnus et affichés sur leur icône, avec leur vitrine d\u0027événement ; la recherche les trouve aussi (tape le Pokémon, le skin ou « skin »).",
-                  "GTS : chaque objet indique quand il a été vu en vente pour la dernière fois et à quel prix.",
-                  "Vente : bouton « Vendre sur la GTS ». Un Pokémon du PC se vend même équipe pleine (ton 6e Pokémon lui laisse sa place le temps de la vente, puis revient) ou quand il ne reste qu\u0027un Pokémon dans l\u0027équipe (un Pokémon du PC le rejoint)."
+                  "GTS : ta liste s\u0027affiche tout de suite à l\u0027ouverture, même après avoir relancé le jeu, puis se vérifie toute seule en une quinzaine de secondes, des offres les plus chères aux moins chères.",
+                  "GTS : une offre vendue ou retirée disparaît de la liste. Si tu essaies d\u0027acheter une offre qui n\u0027existe plus, une fenêtre te le dit et rien n\u0027est payé.",
+                  "GTS : après un achat, une fenêtre de remerciement avec ton nouveau solde et un bouton « Acheter à nouveau chez » le vendeur.",
+                  "GTS : fiche complète avant d\u0027acheter un Pokémon : modèle, niveau, nature, talent, IV et toutes ses attaques.",
+                  "GTS : étoile pour les Pokémon shiny, étiquettes Skin et Fusion, filtres Pokémon (shiny, légendaire, fabuleux, ultra-chimère, paradoxe, skin, fusion, classique, pas possédé) et les mêmes mots dans la recherche.",
+                  "GTS : nouvelle vitrine Black Friday.",
+                  "Profil : corbeille pour retirer une de tes annonces (deux clics), ton rang face aux autres vendeurs avec un conseil de prix, courbe dépenses et gains sur 14 jours, et une notification quand une de tes annonces est vendue.",
+                  "GTS : « Actualiser » relance la lecture, avec une barre de chargement le long de la navigation.",
+                  "Prix : les moyennes tiennent compte de 60 jours, les prix récents comptant le plus. Les objets rares ont enfin une estimation.",
+                  "Confidentialité : le journal de diagnostic ne garde plus le tchat des autres joueurs ; il est limité à 14 jours et compressé."
               ]
 }

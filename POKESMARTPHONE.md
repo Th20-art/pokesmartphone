@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.99.7**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.7-mc1.21.1.jar)
+Dernière version : **1.99.8**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.8-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.7-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.8-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -26,6 +26,19 @@ Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Po
 Tu peux les télécharger et y jouer librement, et partager le lien de cette page. Il est interdit de les vendre, de les mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails et crédits (textures Cobblemon Smartphone, Tabler Icons, Lugia de Cobblemon: Mega Showdown) : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 1.99.8 (18/11/2026)
+
+- GTS : ta liste s'affiche tout de suite à l'ouverture, même après avoir relancé le jeu, puis se vérifie toute seule en une quinzaine de secondes, des offres les plus chères aux moins chères.
+- GTS : une offre vendue ou retirée disparaît de la liste. Si tu essaies d'acheter une offre qui n'existe plus, une fenêtre te le dit et rien n'est payé.
+- GTS : après un achat, une fenêtre de remerciement avec ton nouveau solde et un bouton « Acheter à nouveau chez » le vendeur.
+- GTS : fiche complète avant d'acheter un Pokémon : modèle, niveau, nature, talent, IV et toutes ses attaques.
+- GTS : étoile pour les Pokémon shiny, étiquettes Skin et Fusion, filtres Pokémon (shiny, légendaire, fabuleux, ultra-chimère, paradoxe, skin, fusion, classique, pas possédé) et les mêmes mots dans la recherche.
+- GTS : nouvelle vitrine Black Friday.
+- Profil : corbeille pour retirer une de tes annonces (deux clics), ton rang face aux autres vendeurs avec un conseil de prix, courbe dépenses et gains sur 14 jours, et une notification quand une de tes annonces est vendue.
+- GTS : « Actualiser » relance la lecture, avec une barre de chargement le long de la navigation.
+- Prix : les moyennes tiennent compte de 60 jours, les prix récents comptant le plus. Les objets rares ont enfin une estimation.
+- Confidentialité : le journal de diagnostic ne garde plus le tchat des autres joueurs ; il est limité à 14 jours et compressé.
 
 ## 1.99.7 (18/11/2026)
 
