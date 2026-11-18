@@ -1,6 +1,9 @@
 {
-    "version":  "1.99.10",
-    "file":  "pokeisland-smartphone-1.99.10-mc1.21.1.jar",
-    "sha256":  "bbc096de02985414191e9d6e6d2b4f5a228773493599eaf5e88bd582a1db3f45",
-    "notes":  "GTS : le mod est plus léger, le code de l\u0027ancienne GTS en coffre (d\u0027avant la mise à jour du serveur) est retiré."
+    "version":  "1.99.11",
+    "file":  "pokeisland-smartphone-1.99.11-mc1.21.1.jar",
+    "sha256":  "eaa40324ab9be8a00be7d26326f97fba736e6b57a73b559954ebf206921bf57b",
+    "notes":  [
+                  "GTS : nouvelle catégorie « Pêche » : toutes les cannes à pêche (Minecraft, Cobblemon, serveur), les améliorations de canne, les appâts et les poissons du serveur.",
+                  "GTS : le code est rangé en plusieurs fichiers, pour des mises à jour plus sûres (aucun changement visible)."
+              ]
 }
