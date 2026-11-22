@@ -1,10 +1,13 @@
 {
-    "version":  "1.99.12",
-    "file":  "pokeisland-smartphone-1.99.12-mc1.21.1.jar",
-    "sha256":  "f058e8a098bbc3ca313e1ab325d12dfb18cd09cea74d16db5a1d5fd0de9be754",
+    "version":  "1.99.14",
+    "file":  "pokeisland-smartphone-1.99.14-mc1.21.1.jar",
+    "sha256":  "64cea41fc3e72318ec8ea52dd01d32f09c8afe191f354fab3749a6ce33e884eb",
     "notes":  [
-                  "GTS : la rareté des poissons du serveur (Commun à Mythique) s\u0027affiche sur leur carte et au survol ; la recherche « légendaire » ou « mythique » les trouve aussi.",
-                  "GTS : les écailles de Léviator rejoignent la catégorie « Pêche ».",
-                  "GTS : nouvelle catégorie « Armures » : toutes les armures des mods (serveur, Cobblemon Armory...)."
+                  "Nouveau : Mod MotisPack, la bibliothèque des mods de LePandaChanceux (PokéSmartphone, Légende ATH, Tchat Commerce, Mini-jeux). Le bouton orange de Motisma est dans les Options et sur l\u0027écran titre, et l\u0027app « Mods » du téléphone l\u0027ouvre aussi.",
+                  "Mod MotisPack : chaque mod montre sa version et s\u0027il est à jour ; « Installer » et « Mettre à jour » ouvrent sa page GitHub. Une pastille rouge prévient quand une mise à jour est disponible.",
+                  "Mod MotisPack : la roue ⚙ d\u0027un mod ouvre ses réglages (interrupteurs et volumes), pour commencer avec Légende ATH.",
+                  "Téléphone : l\u0027app de choix des applis s\u0027appelle maintenant « Applications », avec une nouvelle icône.",
+                  "Téléphone : l\u0027app Don et sa fenêtre sont retirées.",
+                  "Le Sac peut sortir un objet pour un autre mod (le menu d\u0027objets en combat de Légende ATH)."
               ]
 }

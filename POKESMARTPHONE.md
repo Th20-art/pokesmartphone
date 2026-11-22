@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.99.12**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.12-mc1.21.1.jar)
+Dernière version : **1.99.14**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.14-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.12-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.14-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -26,6 +26,15 @@ Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Po
 Tu peux les télécharger et y jouer librement, et partager le lien de cette page. Il est interdit de les vendre, de les mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails et crédits (textures Cobblemon Smartphone, Tabler Icons, Lugia de Cobblemon: Mega Showdown) : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 1.99.14 (22/11/2026)
+
+- Nouveau : Mod MotisPack, la bibliothèque des mods de LePandaChanceux (PokéSmartphone, Légende ATH, Tchat Commerce, Mini-jeux). Le bouton orange de Motisma est dans les Options et sur l'écran titre, et l'app « Mods » du téléphone l'ouvre aussi.
+- Mod MotisPack : chaque mod montre sa version et s'il est à jour ; « Installer » et « Mettre à jour » ouvrent sa page GitHub. Une pastille rouge prévient quand une mise à jour est disponible.
+- Mod MotisPack : la roue ⚙ d'un mod ouvre ses réglages (interrupteurs et volumes), pour commencer avec Légende ATH.
+- Téléphone : l'app de choix des applis s'appelle maintenant « Applications », avec une nouvelle icône.
+- Téléphone : l'app Don et sa fenêtre sont retirées.
+- Le Sac peut sortir un objet pour un autre mod (le menu d'objets en combat de Légende ATH).
 
 ## 1.99.12 (18/11/2026)
 

@@ -5,10 +5,10 @@
                      "nom":  "PokéSmartphone",
                      "categorie":  "Outils",
                      "quoi":  "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l\u0027appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-                     "version":  "1.99.12",
+                     "version":  "1.99.14",
                      "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.12-mc1.21.1.jar",
-                     "notes":  "GTS : la rareté des poissons du serveur (Commun à Mythique) s\u0027affiche sur leur carte et au survol ; la recherche « légendaire » ou « mythique » les trouve aussi. GTS : les écailles de Léviator rejoignent la catégorie « Pêche ». GTS : nouvelle catégorie « Armures » : toutes les armures des mods (serveur, Cobblemon Armory...)."
+                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.14-mc1.21.1.jar",
+                     "notes":  "Nouveau : Mod MotisPack, la bibliothèque des mods de LePandaChanceux (PokéSmartphone, Légende ATH, Tchat Commerce, Mini-jeux). Le bouton orange de Motisma est dans les Options et sur l\u0027écran titre, et l\u0027app « Mods » du téléphone l\u0027ouvre aussi. Mod MotisPack : chaque mod montre sa version et s\u0027il est à jour ; « Installer » et « Mettre à jour » ouvrent sa page GitHub. Une pastille rouge prévient quand une mise à jour est disponible. Mod MotisPack : la roue ⚙ d\u0027un mod ouvre ses réglages (interrupteurs et volumes), pour commencer avec Légende ATH. Téléphone : l\u0027app de choix des applis s\u0027appelle maintenant « Applications », avec une nouvelle icône. Téléphone : l\u0027app Don et sa fenêtre sont retirées. Le Sac peut sortir un objet pour un autre mod (le menu d\u0027objets en combat de Légende ATH)."
                  },
                  {
                      "id":  "ath_arceus",

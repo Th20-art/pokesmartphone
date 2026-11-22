@@ -13,7 +13,7 @@ Dernière version : **1.28.1**  [**⬇ Télécharger**](https://github.com/Th20-
 3. Dans ton dossier `mods`, supprime l'ancienne version du mod s'il y en a une, et glisse le nouveau à sa place.
 4. Relance le jeu.
 
-Il faut Minecraft 1.21.1 avec Fabric, Fabric API et Cobblemon (déjà présents dans le pack PokeIsland). La bibliothèque du PokéSmartphone (bouton « Mods PokeIsland ») te dit quand une nouvelle version sort.
+Il faut Minecraft 1.21.1 avec Fabric, Fabric API et Cobblemon (déjà présents dans le pack PokeIsland). La bibliothèque du PokéSmartphone (bouton « Mod MotisPack ») te dit quand une nouvelle version sort.
 
 ## Touches
 
