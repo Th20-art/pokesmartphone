@@ -1,6 +1,6 @@
 {
-    "version":  "0.65.1",
-    "file":  "legende-ath-0.65.1.jar",
-    "sha256":  "1a4f5cebf9abed658c24ad74a53e6755225291f36af12f1274b25d9a37248f83",
-    "notes":  "Mode focus : le scan du Pokédex ne se fait plus qu\u0027avec le Pokédex tenu dans la main principale, comme dans Cobblemon. Sans lui en main, le cadre de visée, le nom et l\u0027icône « déjà capturé » restent affichés."
+    "version": "0.65.1",
+    "file": "legende-ath-0.65.1.jar",
+    "sha256": "1a4f5cebf9abed658c24ad74a53e6755225291f36af12f1274b25d9a37248f83",
+    "notes": "Mode focus : le scan du Pokédex ne se fait plus qu'avec le Pokédex tenu dans la main principale, comme dans Cobblemon. Sans lui en main, le cadre de visée, le nom et l'icône « déjà capturé » restent affichés. Jingle de défaite quand toute l'équipe est K.O. à la fin d'un combat. Les thèmes de combat démarrent directement à plein volume. Après un combat, un jingle ou un écran, la musique de zone reprend le même morceau."
 }

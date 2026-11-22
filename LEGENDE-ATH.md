@@ -36,6 +36,9 @@ Tu peux le télécharger, y jouer et partager le lien de cette page. Il est inte
 ## 0.65.1 (22/11/2026)
 
 - Mode focus : le scan du Pokédex ne se fait plus qu'avec le Pokédex tenu dans la main principale, comme dans Cobblemon. Sans lui en main, le cadre de visée, le nom et l'icône « déjà capturé » restent affichés.
+- Jingle de défaite quand toute l'équipe est K.O. à la fin d'un combat
+- Les thèmes de combat démarrent directement à plein volume
+- Après un combat, un jingle ou un écran, la musique de zone reprend le même morceau
 
 ## 0.64.7 (19/11/2026)
 
