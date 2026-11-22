@@ -1,0 +1,34 @@
+{
+    "mods":  [
+                 {
+                     "id":  "pokeisland_smartphone",
+                     "nom":  "PokéSmartphone",
+                     "categorie":  "Outils",
+                     "quoi":  "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l\u0027appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
+                     "version":  "1.99.12",
+                     "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
+                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.12-mc1.21.1.jar",
+                     "notes":  "GTS : la rareté des poissons du serveur (Commun à Mythique) s\u0027affiche sur leur carte et au survol ; la recherche « légendaire » ou « mythique » les trouve aussi. GTS : les écailles de Léviator rejoignent la catégorie « Pêche ». GTS : nouvelle catégorie « Armures » : toutes les armures des mods (serveur, Cobblemon Armory...)."
+                 },
+                 {
+                     "id":  "ath_arceus",
+                     "nom":  "Légende ATH",
+                     "categorie":  "Interface",
+                     "quoi":  "L\u0027interface façon carnet d\u0027explorateur : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l\u0027île (touche :).",
+                     "version":  "0.65.1",
+                     "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/LEGENDE-ATH.md",
+                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.1.jar",
+                     "notes":  "Mode focus : le scan du Pokédex ne se fait plus qu\u0027avec le Pokédex tenu dans la main principale, comme dans Cobblemon. Sans lui en main, le cadre de visée, le nom et l\u0027icône « déjà capturé » restent affichés. Jingle de défaite quand toute l\u0027équipe est K.O. à la fin d\u0027un combat. Les thèmes de combat démarrent directement à plein volume. Après un combat, un jingle ou un écran, la musique de zone reprend le même morceau."
+                 },
+                 {
+                     "id":  "tchat_commerce",
+                     "nom":  "Tchat Commerce",
+                     "categorie":  "Tchat",
+                     "quoi":  "Le tchat en sections à déplier : Général, Commerce (offres de vente), Groupes et Modération, avec les têtes des joueurs et les prix de la GTS.",
+                     "version":  "1.28.1",
+                     "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/TCHAT-COMMERCE.md",
+                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.28.1.jar",
+                     "notes":  "Première version dans la bibliothèque des mods PokeIsland."
+                 }
+             ]
+}

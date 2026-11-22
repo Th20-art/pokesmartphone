@@ -10,6 +10,7 @@ Un clic sur **Télécharger** enregistre directement le fichier `.jar`.
 |---|---|---|---|
 | **[PokéSmartphone](POKESMARTPHONE.md)** | Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V). | 1.99.12 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.12-mc1.21.1.jar) |
 | **[Légende ATH](LEGENDE-ATH.md)** | L'interface façon carnet d'explorateur : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :). | 0.65.1 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.1.jar) |
+| **[Tchat Commerce](TCHAT-COMMERCE.md)** | Le tchat en sections à déplier : Général, Commerce (offres de vente), Groupes et Modération, avec les têtes des joueurs et les prix de la GTS. | 1.28.1 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.28.1.jar) |
 
 ## Installer ou mettre à jour
 
@@ -24,6 +25,7 @@ Chaque mod te prévient dans le tchat quand une nouvelle version sort : reviens 
 
 - [PokéSmartphone](POKESMARTPHONE.md)
 - [Légende ATH](LEGENDE-ATH.md)
+- [Tchat Commerce](TCHAT-COMMERCE.md)
 
 ## Licence et mentions
 
