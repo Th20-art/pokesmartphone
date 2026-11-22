@@ -4,11 +4,11 @@
 
 L'interface de PokeIsland façon carnet d'explorateur (équipe, Pokédex, fiches, évolutions, PC, pâturage, carte de l'île).
 
-Dernière version : **0.65.1**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.1.jar)
+Dernière version : **0.65.2**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.2.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `legende-ath-0.65.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `legende-ath-0.65.2.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancienne version du mod s'il y en a une, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -32,6 +32,14 @@ Mod gratuit, **projet de fan non officiel** : non affilié à Nintendo, The Pok�
 Tu peux le télécharger, y jouer et partager le lien de cette page. Il est interdit de le vendre, de le mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 0.65.2 (22/11/2026)
+
+- Les types des Pokémon s’affichent près de leur nom en combat.
+- En troisième personne, la caméra garde le Pokémon visé au centre quand tu tiens une Poké Ball.
+- Le menu Objets regroupe les Balls, les soins et les objets de combat. Il peut récupérer les objets de ton sac à dos ou du Sac PokéSmartphone.
+- Un clic utilise un soin ou équipe une Ball. Avec « Libre », tu peux reprendre la main et choisir dans ta barre ou ton inventaire.
+- Le bouton « Vue classique » / « Vue ATH » permet de changer la présentation de l’inventaire.
 
 ## 0.65.1 (22/11/2026)
 

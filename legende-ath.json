@@ -1,6 +1,6 @@
 {
-    "version": "0.65.1",
-    "file": "legende-ath-0.65.1.jar",
-    "sha256": "1a4f5cebf9abed658c24ad74a53e6755225291f36af12f1274b25d9a37248f83",
-    "notes": "Mode focus : le scan du Pokédex ne se fait plus qu'avec le Pokédex tenu dans la main principale, comme dans Cobblemon. Sans lui en main, le cadre de visée, le nom et l'icône « déjà capturé » restent affichés. Jingle de défaite quand toute l'équipe est K.O. à la fin d'un combat. Les thèmes de combat démarrent directement à plein volume. Après un combat, un jingle ou un écran, la musique de zone reprend le même morceau."
+  "version": "0.65.2",
+  "file": "legende-ath-0.65.2.jar",
+  "sha256": "83b92254144f5f08cb045dfe21f8c8c712a25e6065408c70faf3c6f29681f288",
+  "notes": "Les types des Pokémon s’affichent près de leur nom en combat. En troisième personne, la caméra garde le Pokémon visé au centre quand tu tiens une Poké Ball. Le menu Objets regroupe les Balls, les soins et les objets de combat. Il peut récupérer les objets de ton sac à dos ou du Sac PokéSmartphone. Un clic utilise un soin ou équipe une Ball. Avec « Libre », tu peux reprendre la main et choisir dans ta barre ou ton inventaire. Le bouton « Vue classique » / « Vue ATH » permet de changer la présentation de l’inventaire."
 }
