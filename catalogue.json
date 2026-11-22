@@ -29,6 +29,16 @@
                      "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/TCHAT-COMMERCE.md",
                      "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.28.1.jar",
                      "notes":  "Première version dans la bibliothèque des mods PokeIsland."
+                 },
+                 {
+                     "id":  "cobblemon_mini_jeux",
+                     "nom":  "Mini-jeux des joueurs",
+                     "categorie":  "Mini-jeux",
+                     "quoi":  "Parcours, jumps, vols, classements et arènes fantômes à créer et chronométrer sur les îles des joueurs (touche M).",
+                     "version":  "0.3.6",
+                     "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/MINI-JEUX.md",
+                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.3.6.jar",
+                     "notes":  "Première version dans la bibliothèque des mods PokeIsland."
                  }
              ]
 }
