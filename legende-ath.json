@@ -1,6 +1,6 @@
 {
-  "version": "0.64.7",
-  "file": "legende-ath-0.64.7.jar",
-  "sha256": "1b4f81d02c6ec8e23186806181b734fb77d5a899d7d7a671e1594848a3591906",
-  "notes": "Marchand Pokémon : nouveau cartouche noir, noms traduits, stock compact et total restant par offre et pour le marchand. Toute la ligne réagit au survol et au clic, avec les sons de l'ATH et un flash doré."
+    "version":  "0.65.1",
+    "file":  "legende-ath-0.65.1.jar",
+    "sha256":  "1a4f5cebf9abed658c24ad74a53e6755225291f36af12f1274b25d9a37248f83",
+    "notes":  "Mode focus : le scan du Pokédex ne se fait plus qu\u0027avec le Pokédex tenu dans la main principale, comme dans Cobblemon. Sans lui en main, le cadre de visée, le nom et l\u0027icône « déjà capturé » restent affichés."
 }
