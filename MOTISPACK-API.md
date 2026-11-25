@@ -1,5 +1,11 @@
 # Contrôler un mod en jeu depuis MotisPack
 
+## Fiche et réglages d’un mod communautaire
+
+Le fichier [communaute.json](communaute.json) est récupéré par le bouton **Actualiser** dans MotisPack. Utilise l’identifiant Fabric du mod dans `id`. Le champ facultatif `commande_reglages` contient le nom d’une commande locale telle que `pokehud`, sans barre oblique ni arguments. MotisPack affiche son nom et l’exécute sur le client au clic si le mod et la commande sont disponibles.
+
+## Bouton d’activation en jeu
+
 Dans le `fabric.mod.json` du mod client, indique la classe de réglages.
 
 ```json

@@ -1,0 +1,62 @@
+{
+  "source": "Forum Discord PokeIsland, salon communauté, étiquette Mods (relevé le 25/11/2026)",
+  "mods": [
+    {
+      "id": "outils_pokeisland_nopzi",
+      "nom": "Outils PokeIsland",
+      "createur": "NopziTV",
+      "categorie": "Outils",
+      "version": "2.12.4",
+      "quoi": "Hub /outils, réglages du /pc, tri par IV, Pokédex manquants, /butin, /evolutiondoublon, check-list des arènes, info-bulles GTS anti-arnaque.",
+      "page": "https://github.com/NopziTV/Listes-Mods-PokeIsland-By-NopziTV",
+      "telecharger": "https://github.com/NopziTV/Listes-Mods-PokeIsland-By-NopziTV/raw/main/Outils-PokeIsland-By-NopziTV-2.12.4.jar",
+      "version_json": "https://raw.githubusercontent.com/NopziTV/Listes-Mods-PokeIsland-By-NopziTV/main/version.json",
+      "notes_url": "https://raw.githubusercontent.com/NopziTV/Listes-Mods-PokeIsland-By-NopziTV/main/README.md",
+      "fichier_prefixe": "Outils-PokeIsland-By-NopziTV",
+      "commande_reglages": "outils",
+      "discord": "https://discord.com/channels/1373292398087639101/1560330902675132428"
+    },
+    {
+      "id": "quetes_pokeisland_nopzi",
+      "nom": "Quêtes PokeIsland",
+      "createur": "NopziTV",
+      "categorie": "Interface",
+      "version": "1.0.0",
+      "quoi": "Écran des missions du serveur (touche J) : 3 missions par page, rareté en couleur, expiration, bouton Suivre.",
+      "fichier_prefixe": "Quetes-PokeIsland-NopziTV",
+      "discord": "https://discord.com/channels/1373292398087639101/1565156880588873738"
+    },
+    {
+      "id": "pokehud",
+      "nom": "Poke HUD",
+      "createur": "Geeko76",
+      "categorie": "Interface",
+      "version": "4.3.0",
+      "quoi": "Anti-arnaque au GTS (prix comparé à la moyenne), alertes de prix, PC et GTS à ton style.",
+      "fichier_prefixe": "pokeisland-hud-4",
+      "commande_reglages": "pokehud",
+      "discord": "https://discord.com/channels/1373292398087639101/1569486858101202964"
+    },
+    {
+      "id": "pokestonks_papa_arnix",
+      "nom": "PokéStonks",
+      "createur": "Papa_Arnix",
+      "categorie": "GTS",
+      "version": "3.0.0",
+      "quoi": "Courbe du prix sur 30 jours au survol d'une offre du GTS, prix unitaire des lots. 100 % passif.",
+      "fichier_prefixe": "PokeStonks",
+      "discord": "https://discord.com/channels/1373292398087639101/1572752032773832746"
+    },
+    {
+      "id": "pokeisland_hud_geeko",
+      "nom": "PokeIsland HUD",
+      "createur": "Geeko",
+      "categorie": "Interface",
+      "version": "V2",
+      "quoi": "Équipe compacte en bas à droite (modèle 3D, niveau, objet, PV), légendaires possibles dans le biome.",
+      "fichier_prefixe": "pokeisland-hud-V",
+      "discord": "https://discord.com/channels/1373292398087639101/1565144443122884608"
+    }
+  ],
+  "regle": "Seul Outils PokeIsland a un lien public stable (GitHub) : téléchargement direct possible. Les autres ne sont que des pièces jointes Discord (liens signés qui expirent) : bouton « Voir sur Discord », pas de téléchargement direct, sans l'accord de leur créateur."
+}
