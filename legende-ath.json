@@ -1,6 +1,8 @@
 {
-  "version": "0.65.10",
-  "file": "legende-ath-0.65.10.jar",
-  "sha256": "cb716b29ad987684599b9efae94e5aea6238f32025731c65b7965030bf342226",
-  "notes": "En combat, le bouton « Libre » passe temporairement en première personne. Le clic gauche équipe et utilise un soin ou un objet de combat. Le clic droit équipe simplement. Les Poké Balls sont équipées pour un lancer manuel. Les objets du Sac PokéSmartphone sont équipés après la fin du retrait."
+  "version": "0.65.11",
+  "file": "legende-ath-0.65.11.jar",
+  "sha256": "7032b4ff24988785ab36d69bddf3435518fae339a404c60ace80f542def2e4f9",
+  "notes": [
+    "Les réglages MotisPack permettent d’activer ou de désactiver l’interface de Légende ATH immédiatement."
+  ]
 }

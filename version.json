@@ -1,8 +1,8 @@
 {
-  "version": "1.101.3",
-  "file": "pokeisland-smartphone-1.101.3-mc1.21.1.jar",
-  "sha256": "4c2d6ba523d18536af2b59dce682502c546b6ab76332e31dc1aa78dbbbcbecd0",
+  "version": "1.101.4",
+  "file": "pokeisland-smartphone-1.101.4-mc1.21.1.jar",
+  "sha256": "c6762a534489452c87ef32ea73ae4b837e74f5148eebb35e9efbe26ffd93bf34",
   "notes": [
-    "La galerie PokéSmartphone synchronise les captures depuis GitHub. Les fiches MotisPack affichent l’historique et permettent d’installer une version vérifiée à la fermeture du jeu, avec sauvegarde du JAR précédent."
+    "L’onglet Installés affiche les projets du catalogue communautaire. Les fiches permettent d’activer ou de désactiver un mod installé au prochain lancement."
   ]
 }

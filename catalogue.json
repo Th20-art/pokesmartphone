@@ -5,12 +5,12 @@
       "nom": "PokéSmartphone",
       "categorie": "Outils",
       "quoi": "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-      "version": "1.101.3",
+      "version": "1.101.4",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.3-mc1.21.1.jar",
-      "notes": "La galerie PokéSmartphone synchronise les captures depuis GitHub. Les fiches MotisPack affichent l’historique et permettent d’installer une version vérifiée à la fermeture du jeu, avec sauvegarde du JAR précédent.",
-      "sha256": "4c2d6ba523d18536af2b59dce682502c546b6ab76332e31dc1aa78dbbbcbecd0",
-      "taille": 5948065,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.4-mc1.21.1.jar",
+      "notes": "L’onglet Installés affiche les projets du catalogue communautaire. Les fiches permettent d’activer ou de désactiver un mod installé au prochain lancement.",
+      "sha256": "c6762a534489452c87ef32ea73ae4b837e74f5148eebb35e9efbe26ffd93bf34",
+      "taille": 5950608,
       "galerie": [
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/mimiqui.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/compagnon.png",
@@ -19,6 +19,12 @@
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/pokeworld.png"
       ],
       "versions": [
+        {
+          "version": "1.101.3",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/75ad1e3740c71b5121a37cd4356088b565c59b33/pokeisland-smartphone-1.101.3-mc1.21.1.jar",
+          "sha256": "4c2d6ba523d18536af2b59dce682502c546b6ab76332e31dc1aa78dbbbcbecd0"
+        },
         {
           "version": "1.101.1",
           "date": "2026-11-25",
@@ -98,12 +104,12 @@
       "nom": "Légende ATH",
       "categorie": "Interface",
       "quoi": "L'interface façon carnet d'explorateur : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :).",
-      "version": "0.65.10",
+      "version": "0.65.11",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/LEGENDE-ATH.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.10.jar",
-      "notes": "En combat, le bouton « Libre » passe temporairement en première personne. Le clic gauche équipe et utilise un soin ou un objet de combat. Le clic droit équipe simplement. Les Poké Balls sont équipées pour un lancer manuel. Les objets du Sac PokéSmartphone sont équipés après la fin du retrait.",
-      "sha256": "cb716b29ad987684599b9efae94e5aea6238f32025731c65b7965030bf342226",
-      "taille": 3379433,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.11.jar",
+      "notes": "Les réglages MotisPack permettent d’activer ou de désactiver l’interface de Légende ATH immédiatement.",
+      "sha256": "7032b4ff24988785ab36d69bddf3435518fae339a404c60ace80f542def2e4f9",
+      "taille": 3379610,
       "versions": [
         {
           "version": "0.65.10",
@@ -148,12 +154,12 @@
       "nom": "Tchat Commerce",
       "categorie": "Tchat",
       "quoi": "Le tchat en sections à déplier : Général, Commerce (offres de vente), Groupes et Modération, avec les têtes des joueurs et les prix de la GTS.",
-      "version": "1.30.0",
+      "version": "1.30.1",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/TCHAT-COMMERCE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.0.jar",
-      "notes": "L’entrée en file Ranked peut être annoncée dans le tchat, avec un délai de 15 minutes entre les annonces et un réglage pour les désactiver. Les joueurs qui ont le mod peuvent rejoindre une file 1v1, 2v2 ou Random depuis le bouton correspondant. Une demande comme « qui ranked ? » affiche aussi un raccourci. Les canaux Commerce et Staff suivent le nouveau tchat PokeIsland. Les messages de Vente, Recrutement, Staff et les réponses MP peuvent être envoyés depuis le menu « Écrire dans ».",
-      "sha256": "61db47fef7a9e7253c119215f6d915325b6c29dfc87f6e81edb11aa2b98c414a",
-      "taille": 164681,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.1.jar",
+      "notes": "Les réglages MotisPack permettent de revenir au tchat du serveur et de réactiver Tchat Commerce immédiatement.",
+      "sha256": "64a6810dc2966addb0136031b96c637630152e186f76fc2f68896a8283dad81c",
+      "taille": 165598,
       "versions": [
         {
           "version": "1.30.0",
@@ -174,12 +180,12 @@
       "nom": "Mini-jeux des joueurs",
       "categorie": "Mini-jeux",
       "quoi": "Parcours, jumps, vols, classements et arènes fantômes à créer et chronométrer sur les îles des joueurs (touche M).",
-      "version": "0.10.2",
+      "version": "0.10.3",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/MINI-JEUX.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.2.jar",
-      "notes": "Les joueurs proches du cercle peuvent participer à la même course avec un compte à rebours et un podium. Seul au cercle, la course démarre en solo. Le mode créateur permet de poser des étapes dans le monde et de choisir des plateformes de jump de 1 × 1 à 3 × 3 blocs. La course affiche le chrono et les étapes. Les règles autorisées dépendent du type de mini-jeu.",
-      "sha256": "fac097ff837e686491154d055fa6a6a6eff8ef4ad64ffe851199112908d11672",
-      "taille": 187677,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.3.jar",
+      "notes": "Les réglages MotisPack permettent de désactiver ou de réactiver Mini-jeux au prochain lancement de Minecraft.",
+      "sha256": "c9f837826515921120c0ebf004b9748ff0df2252f2283b6a04fa0a26f39269e6",
+      "taille": 188975,
       "versions": [
         {
           "version": "0.10.2",

@@ -1,6 +1,8 @@
 {
-  "version": "0.10.2",
-  "file": "mini-jeux-0.10.2.jar",
-  "sha256": "fac097ff837e686491154d055fa6a6a6eff8ef4ad64ffe851199112908d11672",
-  "notes": "Les joueurs proches du cercle peuvent participer à la même course avec un compte à rebours et un podium. Seul au cercle, la course démarre en solo. Le mode créateur permet de poser des étapes dans le monde et de choisir des plateformes de jump de 1 × 1 à 3 × 3 blocs. La course affiche le chrono et les étapes. Les règles autorisées dépendent du type de mini-jeu."
+  "version": "0.10.3",
+  "file": "mini-jeux-0.10.3.jar",
+  "sha256": "c9f837826515921120c0ebf004b9748ff0df2252f2283b6a04fa0a26f39269e6",
+  "notes": [
+    "Les réglages MotisPack permettent de désactiver ou de réactiver Mini-jeux au prochain lancement de Minecraft."
+  ]
 }

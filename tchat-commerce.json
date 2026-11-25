@@ -1,6 +1,8 @@
 {
-  "version": "1.30.0",
-  "file": "tchat-commerce-1.30.0.jar",
-  "sha256": "61db47fef7a9e7253c119215f6d915325b6c29dfc87f6e81edb11aa2b98c414a",
-  "notes": "L’entrée en file Ranked peut être annoncée dans le tchat, avec un délai de 15 minutes entre les annonces et un réglage pour les désactiver. Les joueurs qui ont le mod peuvent rejoindre une file 1v1, 2v2 ou Random depuis le bouton correspondant. Une demande comme « qui ranked ? » affiche aussi un raccourci. Les canaux Commerce et Staff suivent le nouveau tchat PokeIsland. Les messages de Vente, Recrutement, Staff et les réponses MP peuvent être envoyés depuis le menu « Écrire dans »."
+  "version": "1.30.1",
+  "file": "tchat-commerce-1.30.1.jar",
+  "sha256": "64a6810dc2966addb0136031b96c637630152e186f76fc2f68896a8283dad81c",
+  "notes": [
+    "Les réglages MotisPack permettent de revenir au tchat du serveur et de réactiver Tchat Commerce immédiatement."
+  ]
 }
