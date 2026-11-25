@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.101.5**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.5-mc1.21.1.jar)
+Dernière version : **1.101.6**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.6-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.101.5-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.101.6-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -29,7 +29,13 @@ Tu peux les télécharger et y jouer librement, et partager le lien de cette pag
 
 # Mises à jour
 
+## 1.101.6 (25/11/2026)
+
+- Corrige le crash du client avec le lanceur officiel PokeIsland. La synchronisation automatique de la Bourse attend un protocole compatible.
+
 ## 1.101.5 (25/11/2026)
+
+- **Version retirée du téléchargement.** Elle peut faire planter le client du lanceur officiel lors de la connexion.
 
 - Le bouton principal active ou désactive les mods compatibles dans la session en cours. MotisPack ouvre aussi le menu /outils d’Outils PokeIsland lorsque sa commande cliente est disponible.
 

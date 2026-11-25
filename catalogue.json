@@ -5,18 +5,21 @@
       "nom": "PokéSmartphone",
       "categorie": "Outils",
       "quoi": "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-      "version": "1.101.5",
+      "version": "1.101.6",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.5-mc1.21.1.jar",
-      "notes": "Le bouton principal active ou désactive les mods compatibles dans la session en cours. MotisPack ouvre aussi le menu /outils d’Outils PokeIsland lorsque sa commande cliente est disponible.",
-      "sha256": "2f884a6ed03aea9e6580a82b018b9d4a3370ce63c378cf7cf3e7cdc022790d52",
-      "taille": 5953598,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.6-mc1.21.1.jar",
+      "notes": "Corrige le crash du client avec le lanceur officiel PokeIsland. La synchronisation automatique de la Bourse attend un protocole compatible.",
+      "sha256": "7ec8bcc1efec5a640f736d18c89625c5874cf77bd48137ebe7345bcda369c666",
+      "taille": 5953965,
       "galerie": [
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/mimiqui.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/compagnon.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/sac.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/gts.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/pokeworld.png"
+      ],
+      "versions_retirees": [
+        "1.101.5"
       ],
       "versions": [
         {
