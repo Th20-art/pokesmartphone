@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.6",
-    "file":  "mini-jeux-0.3.6.jar",
-    "sha256":  "f58e3610f94953dac8c2903d2940e22217768ccede45af7e7c7ff9093dd316ae",
-    "notes":  "Première version dans la bibliothèque des mods PokeIsland."
+  "version": "0.10.2",
+  "file": "mini-jeux-0.10.2.jar",
+  "sha256": "fac097ff837e686491154d055fa6a6a6eff8ef4ad64ffe851199112908d11672",
+  "notes": "Les joueurs proches du cercle peuvent participer à la même course avec un compte à rebours et un podium. Seul au cercle, la course démarre en solo. Le mode créateur permet de poser des étapes dans le monde et de choisir des plateformes de jump de 1 × 1 à 3 × 3 blocs. La course affiche le chrono et les étapes. Les règles autorisées dépendent du type de mini-jeu."
 }

@@ -1,44 +1,52 @@
 {
-    "mods":  [
-                 {
-                     "id":  "pokeisland_smartphone",
-                     "nom":  "PokéSmartphone",
-                     "categorie":  "Outils",
-                     "quoi":  "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l\u0027appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-                     "version":  "1.99.14",
-                     "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.14-mc1.21.1.jar",
-                     "notes":  "Nouveau : Mod MotisPack, la bibliothèque des mods de LePandaChanceux (PokéSmartphone, Légende ATH, Tchat Commerce, Mini-jeux). Le bouton orange de Motisma est dans les Options et sur l\u0027écran titre, et l\u0027app « Mods » du téléphone l\u0027ouvre aussi. Mod MotisPack : chaque mod montre sa version et s\u0027il est à jour ; « Installer » et « Mettre à jour » ouvrent sa page GitHub. Une pastille rouge prévient quand une mise à jour est disponible. Mod MotisPack : la roue ⚙ d\u0027un mod ouvre ses réglages (interrupteurs et volumes), pour commencer avec Légende ATH. Téléphone : l\u0027app de choix des applis s\u0027appelle maintenant « Applications », avec une nouvelle icône. Téléphone : l\u0027app Don et sa fenêtre sont retirées. Le Sac peut sortir un objet pour un autre mod (le menu d\u0027objets en combat de Légende ATH)."
-                 },
-                 {
-                     "id":  "ath_arceus",
-                     "nom":  "Légende ATH",
-                     "categorie":  "Interface",
-                     "quoi":  "L\u0027interface façon carnet d\u0027explorateur : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l\u0027île (touche :).",
-                     "version":  "0.65.2",
-                     "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/LEGENDE-ATH.md",
-                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.2.jar",
-                     "notes":  "Les types des Pokémon s’affichent près de leur nom en combat. En troisième personne, la caméra garde le Pokémon visé au centre quand tu tiens une Poké Ball. Le menu Objets regroupe les Balls, les soins et les objets de combat. Il peut récupérer les objets de ton sac à dos ou du Sac PokéSmartphone. Un clic utilise un soin ou équipe une Ball. Avec « Libre », tu peux reprendre la main et choisir dans ta barre ou ton inventaire. Le bouton « Vue classique » / « Vue ATH » permet de changer la présentation de l’inventaire."
-                 },
-                 {
-                     "id":  "tchat_commerce",
-                     "nom":  "Tchat Commerce",
-                     "categorie":  "Tchat",
-                     "quoi":  "Le tchat en sections à déplier : Général, Commerce (offres de vente), Groupes et Modération, avec les têtes des joueurs et les prix de la GTS.",
-                     "version":  "1.28.1",
-                     "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/TCHAT-COMMERCE.md",
-                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.28.1.jar",
-                     "notes":  "Première version dans la bibliothèque des mods PokeIsland."
-                 },
-                 {
-                     "id":  "cobblemon_mini_jeux",
-                     "nom":  "Mini-jeux des joueurs",
-                     "categorie":  "Mini-jeux",
-                     "quoi":  "Parcours, jumps, vols, classements et arènes fantômes à créer et chronométrer sur les îles des joueurs (touche M).",
-                     "version":  "0.3.6",
-                     "page":  "https://github.com/Th20-art/pokesmartphone/blob/main/MINI-JEUX.md",
-                     "telecharger":  "https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.3.6.jar",
-                     "notes":  "Première version dans la bibliothèque des mods PokeIsland."
-                 }
-             ]
+  "mods": [
+    {
+      "id": "pokeisland_smartphone",
+      "nom": "PokéSmartphone",
+      "categorie": "Outils",
+      "quoi": "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
+      "version": "1.101.1",
+      "page": "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.1-mc1.21.1.jar",
+      "notes": "La bibliothèque Mod MotisPack réunit Découvrir, Installés et Mises à jour. Le catalogue présente une sélection à la une et des cartes de mods. Les fiches regroupent notes, galeries et réglages compatibles. Elles indiquent la version installée et celle publiée sur GitHub. Le téléchargement des fichiers JAR se suit dans une file dédiée. Les changements ON/OFF s’appliquent au prochain lancement.",
+      "sha256": "52147998ee9f9e7a2209c39c790dd8e29edb47472672bd2bcfbcec11dec7b07d",
+      "taille": 5923572
+    },
+    {
+      "id": "ath_arceus",
+      "nom": "Légende ATH",
+      "categorie": "Interface",
+      "quoi": "L'interface façon carnet d'explorateur : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :).",
+      "version": "0.65.10",
+      "page": "https://github.com/Th20-art/pokesmartphone/blob/main/LEGENDE-ATH.md",
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.10.jar",
+      "notes": "En combat, le bouton « Libre » passe temporairement en première personne. Le clic gauche équipe et utilise un soin ou un objet de combat. Le clic droit équipe simplement. Les Poké Balls sont équipées pour un lancer manuel. Les objets du Sac PokéSmartphone sont équipés après la fin du retrait.",
+      "sha256": "cb716b29ad987684599b9efae94e5aea6238f32025731c65b7965030bf342226",
+      "taille": 3379433
+    },
+    {
+      "id": "tchat_commerce",
+      "nom": "Tchat Commerce",
+      "categorie": "Tchat",
+      "quoi": "Le tchat en sections à déplier : Général, Commerce (offres de vente), Groupes et Modération, avec les têtes des joueurs et les prix de la GTS.",
+      "version": "1.30.0",
+      "page": "https://github.com/Th20-art/pokesmartphone/blob/main/TCHAT-COMMERCE.md",
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.0.jar",
+      "notes": "L’entrée en file Ranked peut être annoncée dans le tchat, avec un délai de 15 minutes entre les annonces et un réglage pour les désactiver. Les joueurs qui ont le mod peuvent rejoindre une file 1v1, 2v2 ou Random depuis le bouton correspondant. Une demande comme « qui ranked ? » affiche aussi un raccourci. Les canaux Commerce et Staff suivent le nouveau tchat PokeIsland. Les messages de Vente, Recrutement, Staff et les réponses MP peuvent être envoyés depuis le menu « Écrire dans ».",
+      "sha256": "61db47fef7a9e7253c119215f6d915325b6c29dfc87f6e81edb11aa2b98c414a",
+      "taille": 164681
+    },
+    {
+      "id": "cobblemon_mini_jeux",
+      "nom": "Mini-jeux des joueurs",
+      "categorie": "Mini-jeux",
+      "quoi": "Parcours, jumps, vols, classements et arènes fantômes à créer et chronométrer sur les îles des joueurs (touche M).",
+      "version": "0.10.2",
+      "page": "https://github.com/Th20-art/pokesmartphone/blob/main/MINI-JEUX.md",
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.2.jar",
+      "notes": "Les joueurs proches du cercle peuvent participer à la même course avec un compte à rebours et un podium. Seul au cercle, la course démarre en solo. Le mode créateur permet de poser des étapes dans le monde et de choisir des plateformes de jump de 1 × 1 à 3 × 3 blocs. La course affiche le chrono et les étapes. Les règles autorisées dépendent du type de mini-jeu.",
+      "sha256": "fac097ff837e686491154d055fa6a6a6eff8ef4ad64ffe851199112908d11672",
+      "taille": 187677
+    }
+  ]
 }

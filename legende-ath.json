@@ -1,6 +1,6 @@
 {
-  "version": "0.65.2",
-  "file": "legende-ath-0.65.2.jar",
-  "sha256": "83b92254144f5f08cb045dfe21f8c8c712a25e6065408c70faf3c6f29681f288",
-  "notes": "Les types des Pokémon s’affichent près de leur nom en combat. En troisième personne, la caméra garde le Pokémon visé au centre quand tu tiens une Poké Ball. Le menu Objets regroupe les Balls, les soins et les objets de combat. Il peut récupérer les objets de ton sac à dos ou du Sac PokéSmartphone. Un clic utilise un soin ou équipe une Ball. Avec « Libre », tu peux reprendre la main et choisir dans ta barre ou ton inventaire. Le bouton « Vue classique » / « Vue ATH » permet de changer la présentation de l’inventaire."
+  "version": "0.65.10",
+  "file": "legende-ath-0.65.10.jar",
+  "sha256": "cb716b29ad987684599b9efae94e5aea6238f32025731c65b7965030bf342226",
+  "notes": "En combat, le bouton « Libre » passe temporairement en première personne. Le clic gauche équipe et utilise un soin ou un objet de combat. Le clic droit équipe simplement. Les Poké Balls sont équipées pour un lancer manuel. Les objets du Sac PokéSmartphone sont équipés après la fin du retrait."
 }

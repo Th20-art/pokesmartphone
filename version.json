@@ -1,13 +1,10 @@
 {
-    "version":  "1.99.14",
-    "file":  "pokeisland-smartphone-1.99.14-mc1.21.1.jar",
-    "sha256":  "64cea41fc3e72318ec8ea52dd01d32f09c8afe191f354fab3749a6ce33e884eb",
-    "notes":  [
-                  "Nouveau : Mod MotisPack, la bibliothèque des mods de LePandaChanceux (PokéSmartphone, Légende ATH, Tchat Commerce, Mini-jeux). Le bouton orange de Motisma est dans les Options et sur l\u0027écran titre, et l\u0027app « Mods » du téléphone l\u0027ouvre aussi.",
-                  "Mod MotisPack : chaque mod montre sa version et s\u0027il est à jour ; « Installer » et « Mettre à jour » ouvrent sa page GitHub. Une pastille rouge prévient quand une mise à jour est disponible.",
-                  "Mod MotisPack : la roue ⚙ d\u0027un mod ouvre ses réglages (interrupteurs et volumes), pour commencer avec Légende ATH.",
-                  "Téléphone : l\u0027app de choix des applis s\u0027appelle maintenant « Applications », avec une nouvelle icône.",
-                  "Téléphone : l\u0027app Don et sa fenêtre sont retirées.",
-                  "Le Sac peut sortir un objet pour un autre mod (le menu d\u0027objets en combat de Légende ATH)."
-              ]
+  "version": "1.101.1",
+  "file": "pokeisland-smartphone-1.101.1-mc1.21.1.jar",
+  "sha256": "52147998ee9f9e7a2209c39c790dd8e29edb47472672bd2bcfbcec11dec7b07d",
+  "notes": [
+    "La bibliothèque Mod MotisPack réunit Découvrir, Installés et Mises à jour. Le catalogue présente une sélection à la une et des cartes de mods.",
+    "Les fiches regroupent notes, galeries et réglages compatibles. Elles indiquent la version installée et celle publiée sur GitHub.",
+    "Le téléchargement des fichiers JAR se suit dans une file dédiée. Les changements ON/OFF s’appliquent au prochain lancement."
+  ]
 }

@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.99.14**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.99.14-mc1.21.1.jar)
+Dernière version : **1.101.1**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.1-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.99.14-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.101.1-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -26,6 +26,35 @@ Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Po
 Tu peux les télécharger et y jouer librement, et partager le lien de cette page. Il est interdit de les vendre, de les mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails et crédits (textures Cobblemon Smartphone, Tabler Icons, Lugia de Cobblemon: Mega Showdown) : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 1.101.1 (25/11/2026)
+
+- Les fiches MotisPack distinguent le JAR installé de la version publiée sur GitHub.
+- Une version locale plus récente est signalée et la fiche ne propose plus de revenir à un JAR plus ancien.
+- Le catalogue hors ligne inclut Légende ATH 0.65.2.
+
+## 1.101.0 (25/11/2026)
+
+- Mod MotisPack réunit Découvrir, Installés et Mises à jour dans l'onglet Mods.
+- Découvrir présente une sélection à la une et des cartes de mods.
+- Les fiches indiquent les versions et donnent accès aux notes, à la galerie et aux réglages compatibles.
+- La file de téléchargements reste accessible depuis son propre onglet.
+
+## 1.100.1 (25/11/2026)
+
+- L'accueil et les fiches de Mod MotisPack affichent moins d'informations en double.
+- Les flèches de la galerie et des annonces sont placées en dehors des captures.
+- Les notes de version comptent le rattrapage et signalent les versions sans note dans l'historique.
+- La bibliothèque affiche plus de mods à la fois et place les avertissements sous la liste.
+- La file de téléchargements et les aperçus ON/OFF sont plus lisibles.
+
+## 1.100.0 (25/11/2026)
+
+- Mod MotisPack : nouvelle bibliothèque avec accueil, fiches, galeries, annonces et notes de version.
+- Retrouve les mods de la communauté PokeIsland et les mises à jour disponibles.
+- Télécharge les JAR GitHub dans Téléchargements, avec progression et contrôle SHA-256 quand une empreinte est disponible.
+- Active ou désactive les mods du profil dans la bibliothèque. Les changements s'appliquent au prochain lancement.
+- Les réglages compatibles proposent des aperçus ON/OFF et un bouton pour écouter les sons.
 
 ## 1.99.14 (22/11/2026)
 
