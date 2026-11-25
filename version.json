@@ -1,8 +1,8 @@
 {
-  "version": "1.101.10",
-  "file": "pokeisland-smartphone-1.101.10-mc1.21.1.jar",
-  "sha256": "93328e6fe8548cebbc4347194195bd4027344b1da6d52d3d34688d94f7d58603",
+  "version": "1.101.11",
+  "file": "pokeisland-smartphone-1.101.11-mc1.21.1.jar",
+  "sha256": "9c1b9bab52534388bcd8a99a9288d6ff684b5ae2a7df3b683c40fe49cce6b47f",
   "notes": [
-    "Poké HUD 4.3.0 : catégories repliables et interrupteurs par groupe ou par sous-fonction depuis MotisPack. Le menu /pokehud reste accessible pour les réglages détaillés."
+    "MotisPack peut afficher des interrupteurs Poké HUD configurés dans le catalogue GitHub. Ajout de la section Depuis GitHub."
   ]
 }

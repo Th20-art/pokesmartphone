@@ -4,6 +4,10 @@
 
 Le fichier [communaute.json](communaute.json) est récupéré par le bouton **Actualiser** dans MotisPack. Utilise l’identifiant Fabric du mod dans `id`. Le champ facultatif `commande_reglages` contient le nom d’une commande locale telle que `pokehud`, sans barre oblique ni arguments. MotisPack affiche son nom et l’exécute sur le client au clic si le mod et la commande sont disponibles.
 
+Depuis PokéSmartphone 1.101.11, la fiche de Poké HUD 4.3.0 lit aussi le tableau `options_distantes`. Chaque entrée contient `reglage`, `libelle` et une `description` facultative. Les interrupteurs sont affichés sous **Depuis GitHub**. Une entrée ne change un réglage qu’au clic du joueur.
+
+Les identifiants disponibles pour Poké HUD sont `repro_help`, `pc_gap_silhouette`, `pc_gap_3d` et `pc_gap_shiny`. Le téléphone associe ces identifiants aux réglages natifs. Le catalogue permet d’ajouter ou renommer leurs boutons sans mise à jour du JAR.
+
 ## Bouton d’activation en jeu
 
 Dans le `fabric.mod.json` du mod client, indique la classe de réglages.

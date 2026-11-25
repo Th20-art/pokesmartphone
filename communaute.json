@@ -35,6 +35,13 @@
       "quoi": "Anti-arnaque au GTS (prix comparé à la moyenne), alertes de prix, PC et GTS à ton style.",
       "fichier_prefixe": "pokeisland-hud-4",
       "commande_reglages": "pokehud",
+      "options_distantes": [
+        {
+          "reglage": "repro_help",
+          "libelle": "Test",
+          "description": "Afficher l’aide de Poké HUD dans l’écran de reproduction."
+        }
+      ],
       "discord": "https://discord.com/channels/1373292398087639101/1569486858101202964"
     },
     {
