@@ -1,8 +1,8 @@
 {
-  "version": "0.65.11",
-  "file": "legende-ath-0.65.11.jar",
-  "sha256": "7032b4ff24988785ab36d69bddf3435518fae339a404c60ace80f542def2e4f9",
+  "version": "0.65.12",
+  "file": "legende-ath-0.65.12.jar",
+  "sha256": "1b9224304df150732c396ebeb87df9277fa0d80b889f33257c9a2fe08f8646bf",
   "notes": [
-    "Les réglages MotisPack permettent d’activer ou de désactiver l’interface de Légende ATH immédiatement."
+    "MotisPack peut mettre Légende ATH en pause en jeu et restaurer la caméra, l’inventaire et l’affichage de l’équipe."
   ]
 }

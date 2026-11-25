@@ -1,8 +1,8 @@
 {
-  "version": "0.10.3",
-  "file": "mini-jeux-0.10.3.jar",
-  "sha256": "c9f837826515921120c0ebf004b9748ff0df2252f2283b6a04fa0a26f39269e6",
+  "version": "0.10.4",
+  "file": "mini-jeux-0.10.4.jar",
+  "sha256": "f27c8128a8ac15f100053b2231e97f3fda85eb5d68a041d1f785723f6018d6d0",
   "notes": [
-    "Les réglages MotisPack permettent de désactiver ou de réactiver Mini-jeux au prochain lancement de Minecraft."
+    "Mini-jeux s’arrête et reprend sans relancer Minecraft. Désactiver ferme les activités locales en cours."
   ]
 }

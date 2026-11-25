@@ -4,11 +4,11 @@
 
 Crée, chronomètre et partage des parcours, des jumps, des vols, des classements et des arènes fantômes sur les îles des joueurs.
 
-Dernière version : **0.10.3**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.3.jar)
+Dernière version : **0.10.4**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.4.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `mini-jeux-0.10.3.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `mini-jeux-0.10.4.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancienne version du mod s'il y en a une, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -27,6 +27,10 @@ Mod gratuit, **projet de fan non officiel** : non affilié à Nintendo, The Pok�
 Tu peux le télécharger, y jouer et partager le lien de cette page. Il est interdit de le vendre, de le mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 0.10.4 (25/11/2026)
+
+- Mini-jeux s’arrête et reprend sans relancer Minecraft. Désactiver ferme les activités locales en cours.
 
 ## 0.10.3 (25/11/2026)
 

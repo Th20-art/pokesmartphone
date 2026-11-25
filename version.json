@@ -1,8 +1,8 @@
 {
-  "version": "1.101.4",
-  "file": "pokeisland-smartphone-1.101.4-mc1.21.1.jar",
-  "sha256": "c6762a534489452c87ef32ea73ae4b837e74f5148eebb35e9efbe26ffd93bf34",
+  "version": "1.101.5",
+  "file": "pokeisland-smartphone-1.101.5-mc1.21.1.jar",
+  "sha256": "2f884a6ed03aea9e6580a82b018b9d4a3370ce63c378cf7cf3e7cdc022790d52",
   "notes": [
-    "L’onglet Installés affiche les projets du catalogue communautaire. Les fiches permettent d’activer ou de désactiver un mod installé au prochain lancement."
+    "Le bouton principal active ou désactive les mods compatibles dans la session en cours. MotisPack ouvre aussi le menu /outils d’Outils PokeIsland lorsque sa commande cliente est disponible."
   ]
 }

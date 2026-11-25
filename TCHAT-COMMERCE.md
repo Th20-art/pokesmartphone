@@ -4,11 +4,11 @@
 
 Le tchat de PokeIsland en sections à déplier : Général, Commerce (les offres de vente), Groupes (avec le PokéSmartphone) et Modération pour le staff. Têtes des joueurs, prix de la GTS sur les offres, mise en relation des acheteurs et des vendeurs, rappels. Le menu « Écrire dans » envoie tes messages aux canaux de PokeIsland.
 
-Dernière version : **1.30.1**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.1.jar)
+Dernière version : **1.30.2**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.2.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `tchat-commerce-1.30.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `tchat-commerce-1.30.2.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancienne version du mod s'il y en a une, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -27,6 +27,10 @@ Mod gratuit, **projet de fan non officiel** : non affilié à Nintendo, The Pok�
 Tu peux le télécharger, y jouer et partager le lien de cette page. Il est interdit de le vendre, de le mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 1.30.2 (25/11/2026)
+
+- MotisPack permet d’arrêter en jeu le traitement des messages, les annonces et l’interface de Tchat Commerce.
 
 ## 1.30.1 (25/11/2026)
 

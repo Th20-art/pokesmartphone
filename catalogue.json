@@ -5,12 +5,12 @@
       "nom": "PokéSmartphone",
       "categorie": "Outils",
       "quoi": "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-      "version": "1.101.4",
+      "version": "1.101.5",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.4-mc1.21.1.jar",
-      "notes": "L’onglet Installés affiche les projets du catalogue communautaire. Les fiches permettent d’activer ou de désactiver un mod installé au prochain lancement.",
-      "sha256": "c6762a534489452c87ef32ea73ae4b837e74f5148eebb35e9efbe26ffd93bf34",
-      "taille": 5950608,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.5-mc1.21.1.jar",
+      "notes": "Le bouton principal active ou désactive les mods compatibles dans la session en cours. MotisPack ouvre aussi le menu /outils d’Outils PokeIsland lorsque sa commande cliente est disponible.",
+      "sha256": "2f884a6ed03aea9e6580a82b018b9d4a3370ce63c378cf7cf3e7cdc022790d52",
+      "taille": 5953598,
       "galerie": [
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/mimiqui.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/compagnon.png",
@@ -19,6 +19,12 @@
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/pokeworld.png"
       ],
       "versions": [
+        {
+          "version": "1.101.4",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/0db9d69bbbe54154eb411129893b22ab21262903/pokeisland-smartphone-1.101.4-mc1.21.1.jar",
+          "sha256": "c6762a534489452c87ef32ea73ae4b837e74f5148eebb35e9efbe26ffd93bf34"
+        },
         {
           "version": "1.101.3",
           "date": "2026-11-25",
@@ -104,13 +110,19 @@
       "nom": "Légende ATH",
       "categorie": "Interface",
       "quoi": "L'interface façon carnet d'explorateur : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :).",
-      "version": "0.65.11",
+      "version": "0.65.12",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/LEGENDE-ATH.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.11.jar",
-      "notes": "Les réglages MotisPack permettent d’activer ou de désactiver l’interface de Légende ATH immédiatement.",
-      "sha256": "7032b4ff24988785ab36d69bddf3435518fae339a404c60ace80f542def2e4f9",
-      "taille": 3379610,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.12.jar",
+      "notes": "MotisPack peut mettre Légende ATH en pause en jeu et restaurer la caméra, l’inventaire et l’affichage de l’équipe.",
+      "sha256": "1b9224304df150732c396ebeb87df9277fa0d80b889f33257c9a2fe08f8646bf",
+      "taille": 3380750,
       "versions": [
+        {
+          "version": "0.65.11",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/0db9d69bbbe54154eb411129893b22ab21262903/legende-ath-0.65.11.jar",
+          "sha256": "7032b4ff24988785ab36d69bddf3435518fae339a404c60ace80f542def2e4f9"
+        },
         {
           "version": "0.65.10",
           "date": "2026-11-25",
@@ -154,13 +166,19 @@
       "nom": "Tchat Commerce",
       "categorie": "Tchat",
       "quoi": "Le tchat en sections à déplier : Général, Commerce (offres de vente), Groupes et Modération, avec les têtes des joueurs et les prix de la GTS.",
-      "version": "1.30.1",
+      "version": "1.30.2",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/TCHAT-COMMERCE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.1.jar",
-      "notes": "Les réglages MotisPack permettent de revenir au tchat du serveur et de réactiver Tchat Commerce immédiatement.",
-      "sha256": "64a6810dc2966addb0136031b96c637630152e186f76fc2f68896a8283dad81c",
-      "taille": 165598,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.2.jar",
+      "notes": "MotisPack permet d’arrêter en jeu le traitement des messages, les annonces et l’interface de Tchat Commerce.",
+      "sha256": "0dcf15e4226f948fbc55a5b2564e9cc6f59b91567be8a3b4f64075de22887a07",
+      "taille": 165889,
       "versions": [
+        {
+          "version": "1.30.1",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/0db9d69bbbe54154eb411129893b22ab21262903/tchat-commerce-1.30.1.jar",
+          "sha256": "64a6810dc2966addb0136031b96c637630152e186f76fc2f68896a8283dad81c"
+        },
         {
           "version": "1.30.0",
           "date": "2026-11-25",
@@ -180,13 +198,19 @@
       "nom": "Mini-jeux des joueurs",
       "categorie": "Mini-jeux",
       "quoi": "Parcours, jumps, vols, classements et arènes fantômes à créer et chronométrer sur les îles des joueurs (touche M).",
-      "version": "0.10.3",
+      "version": "0.10.4",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/MINI-JEUX.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.3.jar",
-      "notes": "Les réglages MotisPack permettent de désactiver ou de réactiver Mini-jeux au prochain lancement de Minecraft.",
-      "sha256": "c9f837826515921120c0ebf004b9748ff0df2252f2283b6a04fa0a26f39269e6",
-      "taille": 188975,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.4.jar",
+      "notes": "Mini-jeux s’arrête et reprend sans relancer Minecraft. Désactiver ferme les activités locales en cours.",
+      "sha256": "f27c8128a8ac15f100053b2231e97f3fda85eb5d68a041d1f785723f6018d6d0",
+      "taille": 189690,
       "versions": [
+        {
+          "version": "0.10.3",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/0db9d69bbbe54154eb411129893b22ab21262903/mini-jeux-0.10.3.jar",
+          "sha256": "c9f837826515921120c0ebf004b9748ff0df2252f2283b6a04fa0a26f39269e6"
+        },
         {
           "version": "0.10.2",
           "date": "2026-11-25",

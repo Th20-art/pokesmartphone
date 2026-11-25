@@ -1,8 +1,8 @@
 {
-  "version": "1.30.1",
-  "file": "tchat-commerce-1.30.1.jar",
-  "sha256": "64a6810dc2966addb0136031b96c637630152e186f76fc2f68896a8283dad81c",
+  "version": "1.30.2",
+  "file": "tchat-commerce-1.30.2.jar",
+  "sha256": "0dcf15e4226f948fbc55a5b2564e9cc6f59b91567be8a3b4f64075de22887a07",
   "notes": [
-    "Les réglages MotisPack permettent de revenir au tchat du serveur et de réactiver Tchat Commerce immédiatement."
+    "MotisPack permet d’arrêter en jeu le traitement des messages, les annonces et l’interface de Tchat Commerce."
   ]
 }

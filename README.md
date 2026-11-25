@@ -8,10 +8,10 @@ Un clic sur **Télécharger** enregistre directement le fichier `.jar`.
 
 | Mod | Ce qu'il fait | Version | |
 |---|---|---|---|
-| **[PokéSmartphone](POKESMARTPHONE.md)** | Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V). | 1.101.4 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.4-mc1.21.1.jar) |
-| **[Légende ATH](LEGENDE-ATH.md)** | L'interface façon carnet d'explorateur : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :). | 0.65.11 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.11.jar) |
-| **[Tchat Commerce](TCHAT-COMMERCE.md)** | Le tchat en sections à déplier : Général, Commerce (offres de vente), Groupes et Modération, avec les têtes des joueurs et les prix de la GTS. | 1.30.1 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.1.jar) |
-| **[Mini-jeux des joueurs](MINI-JEUX.md)** | Parcours, jumps, vols, classements et arènes fantômes à créer et chronométrer sur les îles des joueurs (touche M). | 0.10.3 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.3.jar) |
+| **[PokéSmartphone](POKESMARTPHONE.md)** | Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V). | 1.101.5 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.5-mc1.21.1.jar) |
+| **[Légende ATH](LEGENDE-ATH.md)** | L'interface façon carnet d'explorateur : équipe, Pokédex, fiches, évolutions, PC, pâturage et carte de l'île (touche :). | 0.65.12 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.12.jar) |
+| **[Tchat Commerce](TCHAT-COMMERCE.md)** | Le tchat en sections à déplier : Général, Commerce (offres de vente), Groupes et Modération, avec les têtes des joueurs et les prix de la GTS. | 1.30.2 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.2.jar) |
+| **[Mini-jeux des joueurs](MINI-JEUX.md)** | Parcours, jumps, vols, classements et arènes fantômes à créer et chronométrer sur les îles des joueurs (touche M). | 0.10.4 | [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.4.jar) |
 
 ## Installer ou mettre à jour
 

@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.101.4**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.4-mc1.21.1.jar)
+Dernière version : **1.101.5**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.5-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.101.4-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.101.5-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -14,6 +14,8 @@ Dernière version : **1.101.4**  [**⬇ Télécharger**](https://github.com/Th20
 Quand une nouvelle version sort, le téléphone te prévient dans le tchat et dans sa cloche de notifications : refais simplement ces étapes.
 
 ## Utiliser le téléphone
+
+Les créateurs de mods peuvent exposer un bouton d’activation en jeu via [l’API MotisPack](MOTISPACK-API.md).
 
 - **F** : ouvrir le téléphone
 - **V** : ouvrir le Sac
@@ -26,6 +28,10 @@ Mods gratuits, **projet de fan non officiel** : non affilié à Nintendo, The Po
 Tu peux les télécharger et y jouer librement, et partager le lien de cette page. Il est interdit de les vendre, de les mettre derrière un accès payant ou de réuploader le fichier ailleurs. Détails et crédits (textures Cobblemon Smartphone, Tabler Icons, Lugia de Cobblemon: Mega Showdown) : voir [LICENSE](LICENSE).
 
 # Mises à jour
+
+## 1.101.5 (25/11/2026)
+
+- Le bouton principal active ou désactive les mods compatibles dans la session en cours. MotisPack ouvre aussi le menu /outils d’Outils PokeIsland lorsque sa commande cliente est disponible.
 
 ## 1.101.4 (25/11/2026)
 
