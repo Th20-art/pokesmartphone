@@ -42,6 +42,12 @@
           "description": "Active ou désactive le panneau d’équipe natif de Poké HUD."
         },
         {
+          "reglage": "party",
+          "quand": "sprint",
+          "libelle": "Masquer l’équipe pendant le sprint",
+          "description": "Masque le panneau Poké HUD pendant le sprint et le réaffiche lorsque tu ralentis."
+        },
+        {
           "reglage": "repro_help",
           "libelle": "Test",
           "description": "Afficher l’aide de Poké HUD dans l’écran de reproduction."
