@@ -5,12 +5,12 @@
       "nom": "PokéSmartphone",
       "categorie": "Outils",
       "quoi": "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-      "version": "1.101.7",
+      "version": "1.101.8",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.7-mc1.21.1.jar",
-      "notes": "L’onglet Installés reconnaît les mods du catalogue et les autres projets personnels présents dans le profil. Une seule version par mod est affichée.",
-      "sha256": "661fc88b2a38d17b8cab032fbd435d6e2f1ce369ac8682e3e993158685444dce",
-      "taille": 5954794,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.8-mc1.21.1.jar",
+      "notes": "Poké HUD 4.3.0 : MotisPack ouvre les réglages natifs et permet de masquer ou de réafficher les widgets du HUD en jeu.",
+      "sha256": "fffe9ddc002bfea8985082b36ef06d321bfe12809299b11e8848c45964d775b0",
+      "taille": 5959961,
       "galerie": [
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/mimiqui.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/compagnon.png",
@@ -22,6 +22,12 @@
         "1.101.5"
       ],
       "versions": [
+        {
+          "version": "1.101.7",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/02f36ced2925851a7470f840277ad90c992a946e/pokeisland-smartphone-1.101.7-mc1.21.1.jar",
+          "sha256": "661fc88b2a38d17b8cab032fbd435d6e2f1ce369ac8682e3e993158685444dce"
+        },
         {
           "version": "1.101.6",
           "date": "2026-11-25",

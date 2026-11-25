@@ -1,8 +1,8 @@
 {
-  "version": "1.101.7",
-  "file": "pokeisland-smartphone-1.101.7-mc1.21.1.jar",
-  "sha256": "661fc88b2a38d17b8cab032fbd435d6e2f1ce369ac8682e3e993158685444dce",
+  "version": "1.101.8",
+  "file": "pokeisland-smartphone-1.101.8-mc1.21.1.jar",
+  "sha256": "fffe9ddc002bfea8985082b36ef06d321bfe12809299b11e8848c45964d775b0",
   "notes": [
-    "L’onglet Installés reconnaît les mods du catalogue et les autres projets personnels présents dans le profil. Une seule version par mod est affichée."
+    "Poké HUD 4.3.0 : MotisPack ouvre les réglages natifs et permet de masquer ou de réafficher les widgets du HUD en jeu."
   ]
 }
