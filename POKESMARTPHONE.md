@@ -2,11 +2,11 @@
 
 [Retour aux mods](README.md)
 
-Dernière version : **1.101.12**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.12-mc1.21.1.jar)
+Dernière version : **1.101.11**  [**⬇ Télécharger**](https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.11-mc1.21.1.jar)
 
 ## Installer ou mettre à jour
 
-1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.101.12-mc1.21.1.jar` s'enregistre.
+1. Clique sur **Télécharger** ci-dessus : le fichier `pokeisland-smartphone-1.101.11-mc1.21.1.jar` s'enregistre.
 2. Ferme le jeu.
 3. Dans ton dossier `mods`, supprime l'ancien fichier `pokeisland-smartphone-...` s'il y en a un, et glisse le nouveau à sa place.
 4. Relance le jeu.
@@ -30,6 +30,8 @@ Tu peux les télécharger et y jouer librement, et partager le lien de cette pag
 # Mises à jour
 
 ## 1.101.12 (25/11/2026)
+
+- **Version retirée du téléchargement.**
 
 - Poké HUD : le catalogue peut ajouter un interrupteur pour l’équipe et des règles de visibilité liées au sprint ou au combat.
 

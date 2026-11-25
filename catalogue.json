@@ -5,12 +5,12 @@
       "nom": "PokéSmartphone",
       "categorie": "Outils",
       "quoi": "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-      "version": "1.101.12",
+      "version": "1.101.11",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.12-mc1.21.1.jar",
-      "notes": "Poké HUD : le catalogue peut ajouter un interrupteur pour l’équipe et des règles de visibilité liées au sprint ou au combat.",
-      "sha256": "26d63ea2360e85d0f5e3d4006085a887397c38acdff15ecc7269e41cb1b9c735",
-      "taille": 5979795,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.11-mc1.21.1.jar",
+      "notes": "MotisPack peut afficher des interrupteurs Poké HUD configurés dans le catalogue GitHub. Ajout de la section Depuis GitHub.",
+      "sha256": "9c1b9bab52534388bcd8a99a9288d6ff684b5ae2a7df3b683c40fe49cce6b47f",
+      "taille": 5976450,
       "galerie": [
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/mimiqui.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/compagnon.png",
@@ -19,7 +19,8 @@
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/pokeworld.png"
       ],
       "versions_retirees": [
-        "1.101.5"
+        "1.101.5",
+        "1.101.12"
       ],
       "versions": [
         {
