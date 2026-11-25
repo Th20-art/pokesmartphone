@@ -35,29 +35,6 @@
       "quoi": "Anti-arnaque au GTS (prix comparé à la moyenne), alertes de prix, PC et GTS à ton style.",
       "fichier_prefixe": "pokeisland-hud-4",
       "commande_reglages": "pokehud",
-      "options_distantes": [
-        {
-          "reglage": "party",
-          "libelle": "Équipe",
-          "description": "Active ou désactive le panneau d’équipe natif de Poké HUD."
-        },
-        {
-          "reglage": "party",
-          "quand": "sprint",
-          "libelle": "Masquer l’équipe pendant le sprint",
-          "description": "Masque le panneau Poké HUD pendant le sprint et le réaffiche lorsque tu ralentis."
-        },
-        {
-          "reglage": "repro_help",
-          "libelle": "Test",
-          "description": "Afficher l’aide de Poké HUD dans l’écran de reproduction."
-        },
-        {
-          "reglage": "pc_gap_3d",
-          "libelle": "Test · Modèles 3D dans le PC",
-          "description": "Bascule les modèles 3D des Pokémon manquants dans les cases du PC."
-        }
-      ],
       "discord": "https://discord.com/channels/1373292398087639101/1569486858101202964"
     },
     {
