@@ -1,8 +1,8 @@
 {
-  "version": "1.101.6",
-  "file": "pokeisland-smartphone-1.101.6-mc1.21.1.jar",
-  "sha256": "7ec8bcc1efec5a640f736d18c89625c5874cf77bd48137ebe7345bcda369c666",
+  "version": "1.101.7",
+  "file": "pokeisland-smartphone-1.101.7-mc1.21.1.jar",
+  "sha256": "661fc88b2a38d17b8cab032fbd435d6e2f1ce369ac8682e3e993158685444dce",
   "notes": [
-    "Corrige le crash du client avec le lanceur officiel PokeIsland. La synchronisation automatique de la Bourse attend un protocole compatible."
+    "L’onglet Installés reconnaît les mods du catalogue et les autres projets personnels présents dans le profil. Une seule version par mod est affichée."
   ]
 }

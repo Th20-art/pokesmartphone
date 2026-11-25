@@ -5,12 +5,12 @@
       "nom": "PokéSmartphone",
       "categorie": "Outils",
       "quoi": "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-      "version": "1.101.6",
+      "version": "1.101.7",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.6-mc1.21.1.jar",
-      "notes": "Corrige le crash du client avec le lanceur officiel PokeIsland. La synchronisation automatique de la Bourse attend un protocole compatible.",
-      "sha256": "7ec8bcc1efec5a640f736d18c89625c5874cf77bd48137ebe7345bcda369c666",
-      "taille": 5953965,
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.7-mc1.21.1.jar",
+      "notes": "L’onglet Installés reconnaît les mods du catalogue et les autres projets personnels présents dans le profil. Une seule version par mod est affichée.",
+      "sha256": "661fc88b2a38d17b8cab032fbd435d6e2f1ce369ac8682e3e993158685444dce",
+      "taille": 5954794,
       "galerie": [
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/mimiqui.png",
         "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/compagnon.png",
@@ -22,6 +22,12 @@
         "1.101.5"
       ],
       "versions": [
+        {
+          "version": "1.101.6",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/9c0f610070a469ed171463ab18b85642aa087853/pokeisland-smartphone-1.101.6-mc1.21.1.jar",
+          "sha256": "7ec8bcc1efec5a640f736d18c89625c5874cf77bd48137ebe7345bcda369c666"
+        },
         {
           "version": "1.101.4",
           "date": "2026-11-25",
