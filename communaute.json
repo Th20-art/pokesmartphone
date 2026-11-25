@@ -51,6 +51,11 @@
           "reglage": "repro_help",
           "libelle": "Test",
           "description": "Afficher l’aide de Poké HUD dans l’écran de reproduction."
+        },
+        {
+          "reglage": "pc_gap_3d",
+          "libelle": "Test · Modèles 3D dans le PC",
+          "description": "Bascule les modèles 3D des Pokémon manquants dans les cases du PC."
         }
       ],
       "discord": "https://discord.com/channels/1373292398087639101/1569486858101202964"
