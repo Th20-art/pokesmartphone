@@ -8,6 +8,8 @@ Depuis PokéSmartphone 1.101.11, la fiche de Poké HUD 4.3.0 lit aussi le tablea
 
 Les identifiants disponibles pour Poké HUD sont `repro_help`, `pc_gap_silhouette`, `pc_gap_3d` et `pc_gap_shiny`. Le téléphone associe ces identifiants aux réglages natifs. Le catalogue permet d’ajouter ou renommer leurs boutons sans mise à jour du JAR.
 
+Depuis la 1.101.12, `party` pilote le panneau natif de l’équipe. Avec le champ facultatif `quand` égal à `sprint` ou `combat`, le même identifiant crée un interrupteur qui masque temporairement ce panneau selon la condition. Une règle ajoutée reste éteinte jusqu’au clic du joueur. L’arrêt de la règle ou de sa condition rétablit l’affichage choisi dans Poké HUD.
+
 ## Bouton d’activation en jeu
 
 Dans le `fabric.mod.json` du mod client, indique la classe de réglages.
