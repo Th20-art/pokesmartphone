@@ -5,12 +5,93 @@
       "nom": "PokéSmartphone",
       "categorie": "Outils",
       "quoi": "Un téléphone (touche F) : chaque appli lance une commande du serveur (PC, GTS, shop, île...), l'appli Trouver dit où apparaît chaque Pokémon, et le Sac range tes objets par poches (touche V).",
-      "version": "1.101.1",
+      "version": "1.101.3",
       "page": "https://github.com/Th20-art/pokesmartphone/blob/main/POKESMARTPHONE.md",
-      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.1-mc1.21.1.jar",
-      "notes": "La bibliothèque Mod MotisPack réunit Découvrir, Installés et Mises à jour. Le catalogue présente une sélection à la une et des cartes de mods. Les fiches regroupent notes, galeries et réglages compatibles. Elles indiquent la version installée et celle publiée sur GitHub. Le téléchargement des fichiers JAR se suit dans une file dédiée. Les changements ON/OFF s’appliquent au prochain lancement.",
-      "sha256": "52147998ee9f9e7a2209c39c790dd8e29edb47472672bd2bcfbcec11dec7b07d",
-      "taille": 5923572
+      "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/pokeisland-smartphone-1.101.3-mc1.21.1.jar",
+      "notes": "La galerie PokéSmartphone synchronise les captures depuis GitHub. Les fiches MotisPack affichent l’historique et permettent d’installer une version vérifiée à la fermeture du jeu, avec sauvegarde du JAR précédent.",
+      "sha256": "4c2d6ba523d18536af2b59dce682502c546b6ab76332e31dc1aa78dbbbcbecd0",
+      "taille": 5948065,
+      "galerie": [
+        "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/mimiqui.png",
+        "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/compagnon.png",
+        "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/sac.png",
+        "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/gts.png",
+        "https://raw.githubusercontent.com/Th20-art/pokesmartphone/main/galerie/pokesmartphone/pokeworld.png"
+      ],
+      "versions": [
+        {
+          "version": "1.101.1",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/cb397b304265bb639eb4a96650f32d7dc80a934c/pokeisland-smartphone-1.101.1-mc1.21.1.jar",
+          "sha256": "52147998ee9f9e7a2209c39c790dd8e29edb47472672bd2bcfbcec11dec7b07d"
+        },
+        {
+          "version": "1.99.14",
+          "date": "2026-11-22",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/70a5477db95b51c6cf171af74811696e671982fb/pokeisland-smartphone-1.99.14-mc1.21.1.jar",
+          "sha256": "64cea41fc3e72318ec8ea52dd01d32f09c8afe191f354fab3749a6ce33e884eb"
+        },
+        {
+          "version": "1.99.12",
+          "date": "2026-11-22",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/221a3d5ec1cb260d5b4dfda3edecaadfa1a3fc19/pokeisland-smartphone-1.99.12-mc1.21.1.jar",
+          "sha256": "f058e8a098bbc3ca313e1ab325d12dfb18cd09cea74d16db5a1d5fd0de9be754"
+        },
+        {
+          "version": "1.99.11",
+          "date": "2026-11-18",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/53ea565e5cfa08ad10895fd708403b5f69470850/pokeisland-smartphone-1.99.11-mc1.21.1.jar",
+          "sha256": "eaa40324ab9be8a00be7d26326f97fba736e6b57a73b559954ebf206921bf57b"
+        },
+        {
+          "version": "1.99.10",
+          "date": "2026-11-18",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/191bcf38c99dc14602c03396315e60ab5bd7a5a6/pokeisland-smartphone-1.99.10-mc1.21.1.jar",
+          "sha256": "bbc096de02985414191e9d6e6d2b4f5a228773493599eaf5e88bd582a1db3f45"
+        },
+        {
+          "version": "1.99.9",
+          "date": "2026-11-18",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/2eb34887b3d22e5c6d494d99a115d8ddf86e3834/pokeisland-smartphone-1.99.9-mc1.21.1.jar",
+          "sha256": "c2059be742f8b46733c729a3b0a0437ef6aa021fdc4c516f11aec6b4deea0b86"
+        },
+        {
+          "version": "1.99.8",
+          "date": "2026-11-18",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/92fac2019bb2c60d55549dcb7d6589d55aa57065/pokeisland-smartphone-1.99.8-mc1.21.1.jar",
+          "sha256": "2d09ab810decb47ed8ea9060da2c9fc256520895dee2606b325f9c1bb31b050d"
+        },
+        {
+          "version": "1.99.7",
+          "date": "2026-11-18",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/b4c48bccfdc43cb3d2ea560a0b1e3b2326dcad40/pokeisland-smartphone-1.99.7-mc1.21.1.jar",
+          "sha256": "145002503297009e81566fcc1323392d274ffdbfb17de97e47e1119bcce04c63"
+        },
+        {
+          "version": "1.99.6",
+          "date": "2026-11-18",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/1c362d1dc320b7b13e480977d96542f9f143066a/pokeisland-smartphone-1.99.6-mc1.21.1.jar",
+          "sha256": "631b9ad2602c11edd53cb352492a05ab2270cb681d52b189fb9548c39269fa17"
+        },
+        {
+          "version": "1.99.5",
+          "date": "2026-11-15",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/f2eca393781ae9c67a1608a0f08f5b73b9459f6d/pokeisland-smartphone-1.99.5-mc1.21.1.jar",
+          "sha256": "57e50e58aeb55f843620ecf6c682cdf592e0d077a6d058bcbe63e6a1f946a8a2"
+        },
+        {
+          "version": "1.99.4",
+          "date": "2026-11-14",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/d48054da4c5f88aed312d6eb78401973fc83754b/pokeisland-smartphone-1.99.4-mc1.21.1.jar",
+          "sha256": "8c601a5c6a3fb759bff95e770ec6761c5847c968d3b25ae41dea188a144ced41"
+        },
+        {
+          "version": "1.99.3",
+          "date": "2026-11-14",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/e631d2306e3423d620a6fa5231cf6337bce467c0/pokeisland-smartphone-1.99.3-mc1.21.1.jar",
+          "sha256": "431fc59592adf76503c58b54cec21c26b5e085e15d18e798671ad88e4c8aa5c6"
+        }
+      ]
     },
     {
       "id": "ath_arceus",
@@ -22,7 +103,45 @@
       "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/legende-ath-0.65.10.jar",
       "notes": "En combat, le bouton « Libre » passe temporairement en première personne. Le clic gauche équipe et utilise un soin ou un objet de combat. Le clic droit équipe simplement. Les Poké Balls sont équipées pour un lancer manuel. Les objets du Sac PokéSmartphone sont équipés après la fin du retrait.",
       "sha256": "cb716b29ad987684599b9efae94e5aea6238f32025731c65b7965030bf342226",
-      "taille": 3379433
+      "taille": 3379433,
+      "versions": [
+        {
+          "version": "0.65.10",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/cb397b304265bb639eb4a96650f32d7dc80a934c/legende-ath-0.65.10.jar",
+          "sha256": "cb716b29ad987684599b9efae94e5aea6238f32025731c65b7965030bf342226"
+        },
+        {
+          "version": "0.65.2",
+          "date": "2026-11-22",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/70a5477db95b51c6cf171af74811696e671982fb/legende-ath-0.65.2.jar",
+          "sha256": "83b92254144f5f08cb045dfe21f8c8c712a25e6065408c70faf3c6f29681f288"
+        },
+        {
+          "version": "0.65.1",
+          "date": "2026-11-22",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/601f4e83e6db0a034f25f7a6475241627b3ced3c/legende-ath-0.65.1.jar",
+          "sha256": "1a4f5cebf9abed658c24ad74a53e6755225291f36af12f1274b25d9a37248f83"
+        },
+        {
+          "version": "0.64.7",
+          "date": "2026-11-19",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/dc05419596e8c6fb3f0a471d67dd977dc5c26376/legende-ath-0.64.7.jar",
+          "sha256": "1b4f81d02c6ec8e23186806181b734fb77d5a899d7d7a671e1594848a3591906"
+        },
+        {
+          "version": "0.64.1",
+          "date": "2026-11-18",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/f76dce4a4283de8651d93afbdbbcd24f69d027bf/legende-ath-0.64.1.jar",
+          "sha256": "532b3618950135d40b5a9b708f8899f10ffc5ddd98a17fe2f91a2e962da6f390"
+        },
+        {
+          "version": "0.58.6",
+          "date": "2026-11-18",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/c50529539ca9c79e20286ab6eed9e251458bbf21/legende-ath-0.58.6.jar",
+          "sha256": "e31e4656f7fbe15137c6caf3a3f9cd0fa3df0bd31059c85eaaa5dfad358558b9"
+        }
+      ]
     },
     {
       "id": "tchat_commerce",
@@ -34,7 +153,21 @@
       "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/tchat-commerce-1.30.0.jar",
       "notes": "L’entrée en file Ranked peut être annoncée dans le tchat, avec un délai de 15 minutes entre les annonces et un réglage pour les désactiver. Les joueurs qui ont le mod peuvent rejoindre une file 1v1, 2v2 ou Random depuis le bouton correspondant. Une demande comme « qui ranked ? » affiche aussi un raccourci. Les canaux Commerce et Staff suivent le nouveau tchat PokeIsland. Les messages de Vente, Recrutement, Staff et les réponses MP peuvent être envoyés depuis le menu « Écrire dans ».",
       "sha256": "61db47fef7a9e7253c119215f6d915325b6c29dfc87f6e81edb11aa2b98c414a",
-      "taille": 164681
+      "taille": 164681,
+      "versions": [
+        {
+          "version": "1.30.0",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/cb397b304265bb639eb4a96650f32d7dc80a934c/tchat-commerce-1.30.0.jar",
+          "sha256": "61db47fef7a9e7253c119215f6d915325b6c29dfc87f6e81edb11aa2b98c414a"
+        },
+        {
+          "version": "1.28.1",
+          "date": "2026-11-22",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/70a5477db95b51c6cf171af74811696e671982fb/tchat-commerce-1.28.1.jar",
+          "sha256": "988367c49407430c504e08e37f2c59c859b96d974db98b95b460ac49da098336"
+        }
+      ]
     },
     {
       "id": "cobblemon_mini_jeux",
@@ -46,7 +179,21 @@
       "telecharger": "https://github.com/Th20-art/pokesmartphone/raw/main/mini-jeux-0.10.2.jar",
       "notes": "Les joueurs proches du cercle peuvent participer à la même course avec un compte à rebours et un podium. Seul au cercle, la course démarre en solo. Le mode créateur permet de poser des étapes dans le monde et de choisir des plateformes de jump de 1 × 1 à 3 × 3 blocs. La course affiche le chrono et les étapes. Les règles autorisées dépendent du type de mini-jeu.",
       "sha256": "fac097ff837e686491154d055fa6a6a6eff8ef4ad64ffe851199112908d11672",
-      "taille": 187677
+      "taille": 187677,
+      "versions": [
+        {
+          "version": "0.10.2",
+          "date": "2026-11-25",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/cb397b304265bb639eb4a96650f32d7dc80a934c/mini-jeux-0.10.2.jar",
+          "sha256": "fac097ff837e686491154d055fa6a6a6eff8ef4ad64ffe851199112908d11672"
+        },
+        {
+          "version": "0.3.6",
+          "date": "2026-11-22",
+          "telecharger": "https://raw.githubusercontent.com/Th20-art/pokesmartphone/70a5477db95b51c6cf171af74811696e671982fb/mini-jeux-0.3.6.jar",
+          "sha256": "f58e3610f94953dac8c2903d2940e22217768ccede45af7e7c7ff9093dd316ae"
+        }
+      ]
     }
   ]
 }
