@@ -35,13 +35,6 @@
       "quoi": "Anti-arnaque au GTS (prix comparé à la moyenne), alertes de prix, PC et GTS à ton style.",
       "fichier_prefixe": "pokeisland-hud-4",
       "commande_reglages": "pokehud",
-      "options_distantes": [
-        {
-          "reglage": "pc_gap_shiny",
-          "libelle": "Aperçus shiny du PC",
-          "description": "Affiche en shiny les modèles 3D des Pokémon manquants dans les cases du PC."
-        }
-      ],
       "discord": "https://discord.com/channels/1373292398087639101/1569486858101202964"
     },
     {
